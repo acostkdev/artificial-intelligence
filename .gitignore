@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+cw/sportimages/
+dataset/
+project/project2/dataset/
+project/project2/raw_descargas/
+project/project2/*.h5
+project/project2/*.keras
