@@ -1,0 +1,197 @@
+Python Basics
+=============
+
+Python es un lenguaje de programacion interpretado, de alto nivel y con
+tipado dinamico. Fue creado por Guido van Rossum y lanzado por primera vez
+en 1991. Su filosofia enfatiza la legibilidad del codigo, usando indentacion
+significativa en lugar de llaves o palabras clave.
+
+Variables y Tipos de Datos
+--------------------------
+
+En Python no necesitas declarar el tipo de una variable. El tipo se infiere
+automaticamente cuando asignas un valor.
+
+    nombre = "Juan"         # str (cadena de texto)
+    edad = 25               # int (numero entero)
+    altura = 1.75           # float (numero decimal)
+    es_estudiante = True    # bool (booleano)
+
+Los tipos principales son: int, float, str, bool, list, tuple, dict, set.
+Puedes verificar el tipo de cualquier variable con type().
+
+    print(type(edad))       # <class 'int'>
+
+Estructuras de Control
+----------------------
+
+Condicionales:
+
+    if edad >= 18:
+        print("Eres mayor de edad")
+    elif edad >= 13:
+        print("Eres adolescente")
+    else:
+        print("Eres menor de edad")
+
+Ciclos:
+
+    # Ciclo for
+    for i in range(5):
+        print(i)            # Imprime 0, 1, 2, 3, 4
+
+    # Ciclo while
+    contador = 0
+    while contador < 5:
+        print(contador)
+        contador += 1
+
+Listas
+------
+
+Las listas son colecciones ordenadas y mutables.
+
+    frutas = ["manzana", "platano", "cereza"]
+    frutas.append("durazno")
+    print(frutas[0])        # manzana
+    print(len(frutas))      # 4
+
+    for fruta in frutas:
+        print(fruta)
+
+    # Slicing (rebanado)
+    numeros = [0, 1, 2, 3, 4, 5]
+    print(numeros[1:4])     # [1, 2, 3]
+    print(numeros[::-1])    # [5, 4, 3, 2, 1, 0]
+
+Funciones
+---------
+
+Las funciones se definen con la palabra clave def.
+
+    def saludar(nombre):
+        return f"Hola, {nombre}!"
+
+    mensaje = saludar("Ana")
+    print(mensaje)          # Hola, Ana!
+
+    def sumar(a, b):
+        resultado = a + b
+        return resultado
+
+    suma = sumar(3, 5)
+    print(f"La suma es {suma}")  # La suma es 8
+
+Tambien existen funciones lambda (anonimas):
+
+    cuadrado = lambda x: x ** 2
+    print(cuadrado(4))      # 16
+
+Diccionarios
+------------
+
+Los diccionarios almacenan pares clave-valor.
+
+    estudiante = {
+        "nombre": "Luis",
+        "edad": 22,
+        "materias": ["Matematicas", "Fisica"]
+    }
+
+    print(estudiante["nombre"])         # Luis
+    estudiante["promedio"] = 9.5
+    print(estudiante.keys())            # dict_keys([...])
+
+    for clave, valor in estudiante.items():
+        print(f"{clave}: {valor}")
+
+Clases y Objetos
+----------------
+
+Python soporta programacion orientada a objetos.
+
+    class Perro:
+        def __init__(self, nombre, raza):
+            self.nombre = nombre
+            self.raza = raza
+
+        def ladrar(self):
+            return f"{self.nombre} dice: Guau!"
+
+        def info(self):
+            return f"{self.nombre} es un {self.raza}"
+
+    mi_perro = Perro("Rex", "Pastor Aleman")
+    print(mi_perro.ladrar())            # Rex dice: Guau!
+    print(mi_perro.info())              # Rex es un Pastor Aleman
+
+Manejo de Archivos
+------------------
+
+    # Escribir un archivo
+    with open("ejemplo.txt", "w", encoding="utf-8") as f:
+        f.write("Hola mundo")
+
+    # Leer un archivo
+    with open("ejemplo.txt", "r", encoding="utf-8") as f:
+        contenido = f.read()
+        print(contenido)
+
+Modulos y Paquetes
+------------------
+
+Puedes importar modulos completos o funciones especificas.
+
+    import math
+    print(math.sqrt(16))    # 4.0
+
+    from random import randint
+    print(randint(1, 10))   # Numero aleatorio entre 1 y 10
+
+Tambien puedes crear tus propios modulos. Solo guarda codigo en un archivo
+.py y luego importalo con import.
+
+Manejo de Errores
+-----------------
+
+Usa try-except para manejar excepciones.
+
+    try:
+        numero = int(input("Dame un numero: "))
+        resultado = 10 / numero
+        print(f"Resultado: {resultado}")
+    except ValueError:
+        print("Eso no es un numero valido")
+    except ZeroDivisionError:
+        print("No se puede dividir entre cero")
+    except Exception as e:
+        print(f"Error inesperado: {e}")
+    else:
+        print("Todo salio bien")
+    finally:
+        print("Esto siempre se ejecuta")
+
+Comprensiones de Listas
+-----------------------
+
+Una forma concisa de crear listas.
+
+    cuadrados = [x ** 2 for x in range(10)]
+    print(cuadrados)        # [0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
+
+    pares = [x for x in range(20) if x % 2 == 0]
+    print(pares)            # [0, 2, 4, 6, 8, 10, 12, 14, 16, 18]
+
+Zen de Python
+--------------
+
+Python tiene un conjunto de principios llamado "El Zen de Python". Puedes
+verlo escribiendo import this en la consola. Algunos de los principios son:
+
+    - Bello es mejor que feo
+    - Explícito es mejor que implícito
+    - Simple es mejor que complejo
+    - Complejo es mejor que complicado
+    - Plano es mejor que anidado
+    - Espaciado es mejor que denso
+    - La legibilidad cuenta
