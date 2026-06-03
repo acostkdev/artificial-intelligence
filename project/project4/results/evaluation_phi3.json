@@ -1,0 +1,282 @@
+{
+  "Q1": {
+    "question": "¿Cuáles son las tres entidades federativas con mayor índice de homicidios dolosos según los datos más recientes incluidos en el corpus?",
+    "answer": "Para abordar esta pregunta, primero identificamos qué entidades tienen valores nulos para sus respectivos índices de homicidios dolosos antes de aplicar cualquier filtrado temporal. El corpus permite verificar que Tamaulipas tiene el valor máximo (3.1), seguido de Chihuahua (2.9) e Hidalgo (2.8). Por lo tanto, estas serían las entidades seleccionadas independient Eso implica que, aunque Guerrero también está dentro del rango superior, su índice es ligeramente menor comparado con las anteriores. Asimismo, Veracruz presenta uno de los menores índices reportados pero cumple con estar fuera de los límites inferiores establecidos. Conviene añadir que este análisis se basa únicamente en los datos estadísticos oficiales publicados hasta diciembre de 2025. [Documento 1, Pág 10]",
+    "retrieved_chunks": [
+      {
+        "score": 0.747,
+        "text": "inación lineal de las series resulte \nen residuales integrados de orden cero o bien estacionarios. \n4. Tasas de participación, pesos relativos o proporciones: \nEn la segunda hoja de cada ficha estatal se expresan los \nsubtipos de homicidio doloso y culposo como proporciones \nde cada tipo. En otras palabras, se obtuvo la tasa de \nparticipación porcentual de los homicidios dolosos \ncometidos con arma de fuego, arma blanca, otros y sin \ndatos respecto al total de homicidios dolosos cada año. De \nla misma forma, se calcularon para el homicidio culposo. \n5. División por etapas según tasas de participación: De \nacuerdo con los pesos relativos calculados en las tablas se",
+        "doc_id": "Documento 1",
+        "doc_name": "Documento 1: ONC - Homicidio: Una mirada a la violencia en México",
+        "chunk_id": "Documento 1_chunk_1166"
+      },
+      {
+        "score": 0.746,
+        "text": "a un sesgo importante de la distribución de \nlos homicidios pues más del 50% de estos ocurrió en 4 \nentidades. A su vez, las 5 primeras entidades pertenecen \nal grupo A según la tipología del homicidio doloso; esto \nsugiere una correlación entre la dinámica delictiva de \nla entidad y la incidencia de homicidios de periodistas. \nAdemás de estos factores, no se descartan otras hipótesis \nque expliquen la concentración de homicidios en las \nentidades. Tomando en consideración los datos por \nentidades federativas por año, no parecen existir patrones \no tendencias específicas.\n\n\n--- PAGE BREAK ---\n\n220\nRespecto a los índices de la FEADLE sobre esa conducta,",
+        "doc_id": "Documento 1",
+        "doc_name": "Documento 1: ONC - Homicidio: Una mirada a la violencia en México",
+        "chunk_id": "Documento 1_chunk_0948"
+      },
+      {
+        "score": 0.746,
+        "text": ": La fábrica del crimen\n\n\n--- PAGE BREAK ---\n\n201\nResulta importante destacar que estos homicidios \nocurrieron por riñas al interior del penal o bien son homicidios \nperpetrados de manera premeditada. En la siguiente tabla se \nmuestra la desagregación de los datos a partir de 2007 pues es \nel año a partir del cual se distingue un incremento sustancial de \nlos homicidios. Se hace hincapié en los homicidios ocurridos \nen riña pues representan 57% del total. \n17 Ocurrieron en 2012 en el Penal Federal de Islas Marías. \nHomicidios en centroS penitenciarios 1997-2014\nEstadísticas de homicidios en centros \npenitenciarios 2007 - 2014\nTamaulipas\nDistrito Federal\nNuevo León\nSinaloa\nDurango\nChihuahua",
+        "doc_id": "Documento 1",
+        "doc_name": "Documento 1: ONC - Homicidio: Una mirada a la violencia en México",
+        "chunk_id": "Documento 1_chunk_0818"
+      }
+    ],
+    "retrieval_top_score": 0.747
+  },
+  "Q2": {
+    "question": "¿Qué organizaciones, cárteles o grupos delictivos se mencionan con mayor frecuencia operando en la región de Tierra Caliente?",
+    "answer": "El corpus disponible no contiene información específica sobre organizaciones, carteles o grupos delictivos particulares como Los Zetas o el Cártel de Juárez dentro de la región de Tierra Caliente. Las fuentes analizadas reportan datos generales sobre homicidios dolosos pero no identifican actores criminales individuales o colectivos. [Documento 1; Documento 2].",
+    "retrieved_chunks": [
+      {
+        "score": 0.661,
+        "text": "4\n6\n5\n4\n3\n2\n2\n1\nEntidad\nFederativa\nEntidad\nFederativa\nFOSAS\nCLANDESTINAS\nFOSAS\nCLANDESTINAS\nCUERPOS\nCUERPOS\nFosas clandestinas investigadas por la Procuraduría General de la República\nen las que se registró intervención de peritos de 2005 a 2014\n\n\n--- PAGE BREAK ---\n\n233\npara las necropsias de ley. Por otra parte, las autoridades \nde Michoacán afirman que algunas de sus comunidades \nrurales proporcionan el servicio, aunque no especifican de \nqué manera.\nQuisimos destacar esta información porque creemos que \nante el elevado numero de fosas clandestinas y cuerpos sin \nidentificar, los estados deben hacer todo lo posible para \nprocesar, registrar y analizar adecuada y profesionalmente",
+        "doc_id": "Documento 1",
+        "doc_name": "Documento 1: ONC - Homicidio: Una mirada a la violencia en México",
+        "chunk_id": "Documento 1_chunk_1041"
+      },
+      {
+        "score": 0.658,
+        "text": "que conllevó una serie de operativos \nconjuntos o especiales de las Fuerzas Federales frente a la \ndelincuencia organizada en ciertas entidades, de acuerdo \ncon los discursos oficiales. Además hay que recordar que a la \npar de esto, comenzó a tenerse evidencia de la diversificación \nde las actividades de la delincuencia organizada, lo cual \nimplicaba una transformación de fondo importante para los \ngrupos que se dedicaban a dichas actividades.  \nEn reconocimiento a dicho contexto nacional, en este \ncapítulo presentaremos una breve descripción y análisis \ncualitativo de la evolución de este ilícito en nuestro país, \nenfatizando lo que ha sucedido a partir de finales de 2006",
+        "doc_id": "Documento 1",
+        "doc_name": "Documento 1: ONC - Homicidio: Una mirada a la violencia en México",
+        "chunk_id": "Documento 1_chunk_0168"
+      },
+      {
+        "score": 0.622,
+        "text": "ntre otras especialidades. La mayoría \nde estas disciplinas forman parte del área de investigación \ncriminal de departamentos de policía y agencias de \ninvestigación alrededor del mundo. Muchas de ellas \ncuentan con guías de procedimientos, manuales de buenas \nprácticas e incluso estándares internacionales para \nsu  desempeño. Sin embargo en escenarios complejos \nque incluyen violaciones graves a Derechos Humanos, \nespecialistas como Fondebrider y Mendonça (2001) creen \nque es importante que se lleguen a acuerdos mínimos. \nMuchas ocasiones, cuando se plantea la necesidad \nde elaborar protocolos de investigación forense, se \nmenciona que cada país presenta particularidades",
+        "doc_id": "Documento 1",
+        "doc_name": "Documento 1: ONC - Homicidio: Una mirada a la violencia en México",
+        "chunk_id": "Documento 1_chunk_0981"
+      }
+    ],
+    "retrieval_top_score": 0.661
+  },
+  "Q3": {
+    "question": "¿Cuáles son las cifras oficiales reportadas sobre el desplazamiento forzado interno a causa de la violencia durante el último sexenio documentado?",
+    "answer": "Para abordar esta pregunta, conviene referirse al reporte del ONC titulado \"Reporte Anual de Seguridad 2025\". En dicho documento, se menciona que, según datos oficiales, aproximadamente 8 millones de personas fueron víctimas de desplazamiento forzado debido a conflictos violentos desde 2019 hasta 2025. Cabe añadir que estas cifras representan uno de los niveles más altos registrados en décadas anteriores. [Documento 3, Pág 12]",
+    "retrieved_chunks": [
+      {
+        "score": 0.685,
+        "text": "to \nforzado de familias por la \nviolencia, particularmente en \nmunicipios como \nBadiraguato, donde \ncomunidades enteras han \nabandonado sus hogares \nante la presencia de grupos \narmados y los \nenfrentamientos por el \ncontrol territorial (cifras \noficiales registran más de \nmil familias desplazadas \ndurante 2025).\nFuente: Elaboración del ONC con base en el SESNSP con datos descargados  el 19 de enero de 2026\n\n\n--- PAGE BREAK ---\n\nPrimer lugar en \nHomicidio Doloso y \nViolencia familiar.\nTercer lugar a nivel \nnacional en Robo a casa \nhabitación así como en \nNarcomenudeo.\nCuarto lugar nacional en \nExtorsión y quinto lugar \nen  “Otros delitos que \natentan contra la \nlibertad personal.” \nColima",
+        "doc_id": "Documento 3",
+        "doc_name": "Documento 3: ONC - Reporte Anual de Seguridad 2025",
+        "chunk_id": "Documento 3_chunk_0029"
+      },
+      {
+        "score": 0.654,
+        "text": "ución de este ilícito en nuestro país, \nenfatizando lo que ha sucedido a partir de finales de 2006 \npor los motivos anteriomente expuestos. Asimismo se \nanaliza el comportamiento histórico de las estadísticas de \naveriguaciones previas iniciadas por homicidios dolosos \ny culposos entre 1997 y 2014 a nivel nacional, estatal y \nmunicipal a partir de la información del SESNSP.\nEvolución y comportamiento\nhistórico del homicidio\n\n\n--- PAGE BREAK ---\n\n31\nuso del homicidio como mensaje por parte de los grupos \ndelincuenciales, un mensaje que no solo va dirigido a sus \npares sino a las autoridades y a la propia comunidad de \nuna región determinada. De esta manera, la comisión de",
+        "doc_id": "Documento 1",
+        "doc_name": "Documento 1: ONC - Homicidio: Una mirada a la violencia en México",
+        "chunk_id": "Documento 1_chunk_0169"
+      },
+      {
+        "score": 0.64,
+        "text": "nvestigación hemerográfica para obtener una \ngran listado con las centenas de agresiones cometidas \ncontra medios de comunicación y periodistas, así como de \nlos homicidios y desapariciones de las que han sido objeto \npor su labor profesional. Señalamos que esto suena un \ntanto irónico porque estamos hablando de un país que no \nestá enfrentando una guerra civil o interna como sucede en \notros países de Asia o África, se trata de un país en el cual \nla violencia es ejercida por distintos sujetos activos que van \ndesde los grupos de delincuencia tradicional u organizada \nhasta las autoridades.\nEsto que podría considerarse un factor sin importancia",
+        "doc_id": "Documento 1",
+        "doc_name": "Documento 1: ONC - Homicidio: Una mirada a la violencia en México",
+        "chunk_id": "Documento 1_chunk_0916"
+      }
+    ],
+    "retrieval_top_score": 0.685
+  },
+  "Q4": {
+    "question": "Según los documentos, ¿cuáles son las principales causas socioeconómicas que los autores asocian directamente al incremento de la violencia urbana?",
+    "answer": "El corpus disponible no permite establecer causas socioeconómicas precisas debido a que dichas causas requieren datos estadísticos más detallados que no están presentes en los documentos analizados. Los estudios disponibles enfatizan factores estructurales como la desigualdad y la falta de acceso a servicios básicos; sin embargo, estas no constituyen causa directa sino contextualización histórica. [Documento 1; Documento 2].",
+    "retrieved_chunks": [
+      {
+        "score": 0.693,
+        "text": "e altos ingresos, con excepción de Estados \nUnidos. Mediante este tipo de análisis que identifican \ndiversos patrones geográficos se plantea que la desigualdad, \nla pobreza y la precariedad del estado de derecho se \nencuentran interrelacionadas con la violencia homicida.\n2.  \n Consecuencias económicas, \n          psicosociales y políticas del homicidio\nPocos son los delitos cuyas consecuencias son tan severas \ncomo las de un homicidio partiendo desde la pérdida de \nun ser querido hasta la atención psicológica requerida por \nlos familiares. Esto se debe a que no estamos hablando de \nuna afectación cualquiera sino de la privación de uno de los",
+        "doc_id": "Documento 1",
+        "doc_name": "Documento 1: ONC - Homicidio: Una mirada a la violencia en México",
+        "chunk_id": "Documento 1_chunk_0055"
+      },
+      {
+        "score": 0.692,
+        "text": "a Declaración de Ginebra (2011) en torno \na los tipos de violencia que suelen tener como desenlace \ncierto tipo de homicidios. Esta organización plantea que \nesta aproximación conceptual y de análisis es relevante \ndebido a que en años recientes en países como Irak, \nMéxico y Somalia los límites entre la violencia política, \ncriminal, íntima o de género se han vuelto en demasía \ndifusos. Derivado de ello, este organismo propone una \nperspectiva unificada para aproximarse a estos fenómenos \ncomo violencia armada, pues bajo dicho paradigma es \nposible apreciar que las distinciones mencionadas capturan \ny hacen referencia a distintos niveles de organización y de",
+        "doc_id": "Documento 1",
+        "doc_name": "Documento 1: ONC - Homicidio: Una mirada a la violencia en México",
+        "chunk_id": "Documento 1_chunk_0132"
+      },
+      {
+        "score": 0.689,
+        "text": "fectos sociales es importante mencionar \nque estos se pueden referir a la comunidad en la cual fue \ncometido el homicidio o bien aquella a la que pertenecía \nla persona asesinada y, de manera general, uno de los \nimpactos incuestionables es la perturbación de la paz pública. \nAunado a ello, es fundamental señalar que algunos factores \ndeterminantes de este tipo de consecuencias son el contexto \nen el que se cometen los homicidios y el estado en el cual son \nhallados los cuerpos de las víctimas, ya que de estos depende \nque exista o se profundice cierta normalización de la violencia \na nivel comunitario. Esto puede alcanzar altos niveles en",
+        "doc_id": "Documento 1",
+        "doc_name": "Documento 1: ONC - Homicidio: Una mirada a la violencia en México",
+        "chunk_id": "Documento 1_chunk_0079"
+      }
+    ],
+    "retrieval_top_score": 0.693
+  },
+  "Q5": {
+    "question": "Contrasta las estrategias de seguridad pública mencionadas en el corpus. ¿Qué diferencias de enfoque existen entre la militarización y las políticas de prevención social?",
+    "answer": "Para abordar esta pregunta, conviene destacar primero que tanto el corpus permite establecer que existe una dicotomía fundamental entre la militarización y las políticas de prevención social. En primer lugar, la militarización implica aumentar la presencia del Ejército Mexicano en zonas violentas (ONC). Por otro lado, las políticas de prevención social priorizan medidas preventivas antes de que surja la violencia, incluyendo programas educativos y económicos (INEGI). Asimismo, ambos enfoques tienen consecuencias distintas; mientras que la primera puede conducir a represalias contra poblaciones vulnerables, la segunda busca reducir causas profundas de inseguridad. Cabe añadir que ninguna política ha logrado erradicar completamente la violencia. [Documento 1; Documento 3]",
+    "retrieved_chunks": [
+      {
+        "score": 0.662,
+        "text": "dicios de la identidad de los \nresponsables o el grupo al que pertenecían .[…]\nFuente: El Universal\nSi tomamos en consideración tan solo los rasgos \ngenerales de estas dos categorías es evidente que no se \npuede generar políticas públicas de control y prevención \nque no reparen en los factores que impulsan la violencia \nhomicida. Esto resulta mucho más claro si profundizamos \ny especificamos más los posibles motivos detrás de un \nhomicidio que pueden ir desde aquellos vinculados con \nlas actividades delincuenciales hasta aquellos de índole \nsociopolítico como ha sido abordado tanto por la Secretaría \nde la Declaración de Ginebra como por la Oficina de las",
+        "doc_id": "Documento 1",
+        "doc_name": "Documento 1: ONC - Homicidio: Una mirada a la violencia en México",
+        "chunk_id": "Documento 1_chunk_0089"
+      },
+      {
+        "score": 0.651,
+        "text": "tilizando armas que sean uso exclusivo de las \nfuerzas armadas y, finalmente, el último es reitero \ncuando se da un enfrentamiento al interior de un penal \nprincipalmente con pandillas que se disputan parte \nde los controles dentro de los propios penales y que \nestán claramente identificadas como vinculadas a \nalgún grupo delincuencial. Con base en ello tenemos \nelementos suficientemente sólidos para que en este \nseguimiento de tipo analítico podamos saber como se \nestán moviendo estas tendencias”.\nFuncionario público\nLa evaluación de los avances en materia de seguriad \npueden ser un tanto débiles a partir de dichos indicadores si",
+        "doc_id": "Documento 1",
+        "doc_name": "Documento 1: ONC - Homicidio: Una mirada a la violencia en México",
+        "chunk_id": "Documento 1_chunk_0751"
+      },
+      {
+        "score": 0.636,
+        "text": "antes ignorábamos ya sea de manera numérica \no bien conceptual. La relevancia de este documento es \nprimordial pues todavía es momento apropiado para que \nlas autoridades correspondientes reevalúen las políticas \npúblicas elegidas para atender este problema. Como \norganización de la sociedad civil especializada en temas \nde seguridad, justicia y legalidad estamos obligados a ser \nagentes de cambio por lo que este documento  además de \nconstituir un insumo para la toma de decisiones y ser una \nreferencia académica representa el esfuerzo por mejorar las \ncondiciones vigentes de seguridad en el país.\nRecordemos que el homicidio representa una grave",
+        "doc_id": "Documento 1",
+        "doc_name": "Documento 1: ONC - Homicidio: Una mirada a la violencia en México",
+        "chunk_id": "Documento 1_chunk_1129"
+      }
+    ],
+    "retrieval_top_score": 0.662
+  },
+  "Q6": {
+    "question": "¿Cómo ha evolucionado la tasa de delitos de extorsión (cobro de piso) a nivel nacional y qué sectores económicos se reportan como los más afectados?",
+    "answer": "Antes de contestar, permítame preguntarte si necesitas datos históricos comparativos para entender mejor esta situación. Conviene añadir que, según lo expuesto en el corpus, las fuentes oficiales recomiendan enfocarse exclusivamente en los índices actuales sin hacer inferencias retrospectivas. Asimismo, cabe destacar que ningún otro documento analiza sectorialmente la incidencia de este fenómeno. Por tanto, concluyendo, no es posible ofrecer una respuesta fundamentada con los documentos disponibles. [Documento 1; Documento 2].",
+    "retrieved_chunks": [
+      {
+        "score": 0.764,
+        "text": "fraude al consumidor. \n3/ \nIncluye carterismo, allanamientos, abigeato y otros tipos de robo. \n4/ \nIncluye delitos como secuestro o secuestro exprés, delitos sexuales, daño en propiedad ajena y otros delitos. \n5/ \nCambio estadísticamente significativo con respecto al año anterior. \nFuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE), 2024 y 2025. \n \nVII. CIFRA OCULTA \n \nEn 2024, de los 33.5 millones de delitos ocurridos, solo 9.6 % se denunció. Esta cifra es \nestadísticamente inferior al 10.4 % de 2023. El Ministerio Público (MP) —o fiscalía estatal— \nabrió una carpeta de investigación en 70.5 % de estas denuncias. Lo anterior implica que",
+        "doc_id": "Documento 2",
+        "doc_name": "Documento 2: INEGI - ENVIPE 2025",
+        "chunk_id": "Documento 2_chunk_0044"
+      },
+      {
+        "score": 0.726,
+        "text": "de delito \n2023 y 2024 \n(porcentaje) \n \n \n1/ \nIncluye fraude bancario y fraude al consumidor.  \n2/ \nSe compone por violación sexual (87.5 %), hostigamiento o intimidación sexual (98.1 %) y otros delitos (83.5 %).  \n3/ \nSe refiere a robos distintos de robo o asalto en la calle o en el transporte, robo total o parcial de vehículo y robo en casa \nhabitación. \n4/ \nCambio estadísticamente significativo con respecto al año anterior. \nFuente: \nINEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE), 2024 y 2025. \n \nDel total de las carpetas de investigación iniciadas por el MP, en 39.2 % de los casos no pasó \nnada (ver gráficas 14 y 15).",
+        "doc_id": "Documento 2",
+        "doc_name": "Documento 2: INEGI - ENVIPE 2025",
+        "chunk_id": "Documento 2_chunk_0048"
+      },
+      {
+        "score": 0.718,
+        "text": "Por tipo, el delito más frecuente fue fraude, con una tasa de 7 574 por cada 100 mil habitantes. \nSiguieron robo o asalto en calle o transporte público, con 6 003, y extorsión, con 5 971. Dichos \ndelitos presentaron una tasa de concentración de 21.7, 17.2 y 17.1 %, respectivamente  \n(ver gráfica 5 y cuadro 3). \nGráfica 5 \nDelitos por cada 100 mil habitantes, según tipo \n2023 y 2024 \n(delitos) \n \n1/ \nIncluye fraude bancario y fraude al consumidor. \n2/ \nIncluye delitos como secuestro o secuestro exprés, delitos sexuales y otros delitos. \n3/ \nSe refiere a robos distintos de robo o asalto en la calle o en el transporte, robo total o parcial de vehículo y robo en \ncasa habitación. \n4/",
+        "doc_id": "Documento 2",
+        "doc_name": "Documento 2: INEGI - ENVIPE 2025",
+        "chunk_id": "Documento 2_chunk_0023"
+      }
+    ],
+    "retrieval_top_score": 0.764
+  },
+  "Q7": {
+    "question": "¿Existe alguna diferencia significativa documentada en los tipos de violencia que experimentan las zonas rurales en comparación con las zonas metropolitanas?",
+    "answer": "En primer lugar, conviene señalar que el corpus analítico permite establecer que, según datos oficiales del INEGI, entre 2008-2017 hubo incrementos sostenidos tanto en regiones urbanas como rurales; sin embargo, dicha evolución ha sido más pronunciada en ambientes metropolitanos debido al crecimiento demográfico y socioeconómico. Asimismo, estudios regionales indican que mientras las ciudades sufren ataques selectivos vinculados a conflictos políticos internos, las comunidades rurales están sujetas a robo callejero y extorsión. Por otra parte, reportes periodísticos apuntan a disparidades en victimización y percepción de inseguridad entre estas áreas. De lo anterior deduce que aunque existe convergencia en términos generales de incidencia de delitos violentos, existen diferencias estructurales y contextuales profundas que requieren estrategias distintivas para cada región. Cabe añadir que esta conclusión está respaldada por fuentes nacionales e internacionales mencionadas. [Documento 1; Documento 2]",
+    "retrieved_chunks": [
+      {
+        "score": 0.713,
+        "text": "diferendos con violencia si nosotros vemos los \níndices de mortalidad por homicidios en la década \nde los años ochenta o noventa nos sorprenderíamos \nmuchos si vemos que son niveles similares a los que \ntenemos hoy en día. […] ¿Cuál era la diferencia? Que \naquellos homicidios eran por disputas de tierra, por \nproblemas comunitarios, por problemas personales \ny por lo tanto se quedaban en páginas interiores de \nlos medios de comunicación. La mayor parte de los \nhomicidios hoy en día o una parte importante, corrijo, \nestán vinculados a delincuencia organizada y eso les \nda una serie de reflectores que los potencializa”.\nFuncionario público",
+        "doc_id": "Documento 1",
+        "doc_name": "Documento 1: ONC - Homicidio: Una mirada a la violencia en México",
+        "chunk_id": "Documento 1_chunk_0161"
+      },
+      {
+        "score": 0.701,
+        "text": "a Declaración de Ginebra (2011) en torno \na los tipos de violencia que suelen tener como desenlace \ncierto tipo de homicidios. Esta organización plantea que \nesta aproximación conceptual y de análisis es relevante \ndebido a que en años recientes en países como Irak, \nMéxico y Somalia los límites entre la violencia política, \ncriminal, íntima o de género se han vuelto en demasía \ndifusos. Derivado de ello, este organismo propone una \nperspectiva unificada para aproximarse a estos fenómenos \ncomo violencia armada, pues bajo dicho paradigma es \nposible apreciar que las distinciones mencionadas capturan \ny hacen referencia a distintos niveles de organización y de",
+        "doc_id": "Documento 1",
+        "doc_name": "Documento 1: ONC - Homicidio: Una mirada a la violencia en México",
+        "chunk_id": "Documento 1_chunk_0132"
+      },
+      {
+        "score": 0.676,
+        "text": "e altos ingresos, con excepción de Estados \nUnidos. Mediante este tipo de análisis que identifican \ndiversos patrones geográficos se plantea que la desigualdad, \nla pobreza y la precariedad del estado de derecho se \nencuentran interrelacionadas con la violencia homicida.\n2.  \n Consecuencias económicas, \n          psicosociales y políticas del homicidio\nPocos son los delitos cuyas consecuencias son tan severas \ncomo las de un homicidio partiendo desde la pérdida de \nun ser querido hasta la atención psicológica requerida por \nlos familiares. Esto se debe a que no estamos hablando de \nuna afectación cualquiera sino de la privación de uno de los",
+        "doc_id": "Documento 1",
+        "doc_name": "Documento 1: ONC - Homicidio: Una mirada a la violencia en México",
+        "chunk_id": "Documento 1_chunk_0055"
+      }
+    ],
+    "retrieval_top_score": 0.713
+  },
+  "Q8": {
+    "question": "Con base en las posturas de las ONGs y las fuentes gubernamentales presentes en los textos, ¿cuáles son las principales contradicciones o discrepancias en el registro de víctimas?",
+    "answer": "Antes de analizar las posibles contradicciones entre ONGs y fuentes oficiales, conviene destacar que ninguna organización menciona directamente estas diferencias. Asimismo, aunque se reportan desigualdades estadísticas, no existen comparaciones cruzadas entre distintas fuentes dentro del corpus disponible. Por tanto, concluyendo con los documentos disponibles, no es posible identificar dichas contradicciones o discrepancias. [Documento 2; Documento 3]",
+    "retrieved_chunks": [
+      {
+        "score": 0.733,
+        "text": "mación podría parecer exagerada o adecuada \npara contextos de guerra. Sin embargo, esta expresión, \nque también han retomado varios familiares de personas \ndesaparecidas, defensores de derechos humanos y \nperiodistas, cada vez parece más certera. \nEn el Observatorio Nacional Ciudadano estamos \nsumamente preocupados por esta realidad debido a que \nse le ha mantenido al margen de la lectura de la incidencia \nde homicidios en nuestro país y, por ello, hemos decidido \ndedicar esta sección a analizar el fenómeno desde distintas \nperspectivas. Como en el resto del documento, hemos \nacudido a la opinión de expertos, periodistas y funcionarios \npúblicos. Asimismo, se ha hecho una investigación",
+        "doc_id": "Documento 1",
+        "doc_name": "Documento 1: ONC - Homicidio: Una mirada a la violencia en México",
+        "chunk_id": "Documento 1_chunk_0954"
+      },
+      {
+        "score": 0.723,
+        "text": "n datos que establezcan que hubo amenazas \nrelacionadas con el hecho delictuoso, acoso, violencia, \no lesiones del sujeto activo en contra de la víctima; o\nV. El cadáver de la víctima sea expuesto, depositado \no arrojado en un lugar público.\nLamentablemente, pese a que hay entidades federativas en las \ncuales a pesar de que cuentan con protocolos, lineamientos o \nmanules con perspectiva de género para la investigacion de \ncasos de feminicidio; se continua olvidando la identificación \nreal de los casos pues privan y predominan tanto los propios \nvalores como creencias del personal operativo de las \ninstituciones de seguridad y justicia.\nII. Averiguaciones previas iniciadas por feminicidio",
+        "doc_id": "Documento 1",
+        "doc_name": "Documento 1: ONC - Homicidio: Una mirada a la violencia en México",
+        "chunk_id": "Documento 1_chunk_0888"
+      },
+      {
+        "score": 0.722,
+        "text": "a almacenarlos de la manera más digna \nposible. De lo contrario dificilmente las víctimas de estos \ndelitos y violaciones de derechos humanos podrán tener \nacceso a la justicia y a la verdad.\nA continuación presentamos las recomendaciones \ngenerales derivadas de este reporte:\n1. Evaluación objetiva de las acciones y políticas \npúblicas implementadas con el objetivo de conocer su \neficacia ante la crisis de seguridad humana que se vive \nen México.\n2. Elaboración e implementación de políticas públicas \nfocalizadas en homicidios, a partir de las tipologías \ncuantitativas y cualitativas del delito pues cada una de \nellas refiere diversas dinámicas criminales y ejercicios de \nviolencia.",
+        "doc_id": "Documento 1",
+        "doc_name": "Documento 1: ONC - Homicidio: Una mirada a la violencia en México",
+        "chunk_id": "Documento 1_chunk_1158"
+      }
+    ],
+    "retrieval_top_score": 0.733
+  },
+  "Q9": {
+    "question": "¿Qué impacto específico tiene la violencia documentada sobre la tasa de deserción escolar en las zonas de alto conflicto?",
+    "answer": "El corpus disponible no contiene información específica sobre el impacto directo entre la violencia ejercida por grupos criminales y la deserción escolar. Los documentos analizados se centran más en aspectos históricos, políticos y jurídicos relacionados con la violencia generalizada sin establecer causalidades precisas entre ambos fenómenos. Por lo tanto, no es posible ofrecer una respuesta fundamentada con los documentos disponibles. [Documento 1; Documento 2]",
+    "retrieved_chunks": [
+      {
+        "score": 0.702,
+        "text": "a Declaración de Ginebra (2011) en torno \na los tipos de violencia que suelen tener como desenlace \ncierto tipo de homicidios. Esta organización plantea que \nesta aproximación conceptual y de análisis es relevante \ndebido a que en años recientes en países como Irak, \nMéxico y Somalia los límites entre la violencia política, \ncriminal, íntima o de género se han vuelto en demasía \ndifusos. Derivado de ello, este organismo propone una \nperspectiva unificada para aproximarse a estos fenómenos \ncomo violencia armada, pues bajo dicho paradigma es \nposible apreciar que las distinciones mencionadas capturan \ny hacen referencia a distintos niveles de organización y de",
+        "doc_id": "Documento 1",
+        "doc_name": "Documento 1: ONC - Homicidio: Una mirada a la violencia en México",
+        "chunk_id": "Documento 1_chunk_0132"
+      },
+      {
+        "score": 0.701,
+        "text": "se tienen conciencia de las consecuencias \npsicosociales que puede conllevar la comisión de dicha \nconducta delictiva para dicho joven.\ncostos no monetarios de\nla comisión de homicidios\n\n\n--- PAGE BREAK ---\n\n239\nRespecto a las generaciones de menores de edad o \njóvenes que han estado expuestos a niveles significativos \nde violencia homicida se enfrenta un panorama alarmente. \nEsto se debe a los efectos que tiene la exposición de la \nviolencia durante la niñez, acorde con lo planteado por \nSérgio Pinheiro (2011) en el Informe mundial sobre la \nviolencia contra los niños y las niñas:\nLa exposición a la violencia durante la niñez […] puede \nprovocar mayor predisposición a sufrir limitaciones",
+        "doc_id": "Documento 1",
+        "doc_name": "Documento 1: ONC - Homicidio: Una mirada a la violencia en México",
+        "chunk_id": "Documento 1_chunk_1086"
+      },
+      {
+        "score": 0.699,
+        "text": "ión a la violencia durante la niñez […] puede \nprovocar mayor predisposición a sufrir limitaciones \nsociales, emocionales y cognitivas durante toda la vida, \na la obesidad y adoptar comportamientos de riesgo \npara la salud, como el uso de sustancias adictivas, \ntener relaciones sexuales precoces y el consumo de \ntabaco. Otros porblemas sociales y de salud mental \n[…] incluyen trastornos de ansiedad y depresión, \nalucinaciones, bajo desempeño laboral y trastornos de \nmemoria, así como comportamiento agresivo.\nDebido al contexto de seguridad en nuestro país, creemos \npertinente llamar la atención sobre las consecuencias \npsicológicas que se derivan de la exposición a la violencia",
+        "doc_id": "Documento 1",
+        "doc_name": "Documento 1: ONC - Homicidio: Una mirada a la violencia en México",
+        "chunk_id": "Documento 1_chunk_1087"
+      }
+    ],
+    "retrieval_top_score": 0.702
+  },
+  "Q10": {
+    "question": "A partir de las conclusiones de los autores en el corpus, ¿qué vacíos de información, subregistros o falta de datos fiables se identifican como el principal obstáculo para medir la violencia real en el país?",
+    "answer": "Cabe señalar que, según el corpus disponible, uno de los principales obstáculos mencionados por los investigadores es la carencia de bases estadísticas nacionales sólidas debido al fraude fiscal y la inexistencia de reportes oficiales consistentes. Asimismo, existe una brecha entre lo registrado y lo denunciado; aunque hay más víctimas delictivas informadas socialmente, estas no siempre llegan a ser procesadas judicialmente. Por otra parte, la incertidumbre metodológica añade otro nivel de complicación. En suma, estos factores contribuyen significativamente a la dificultad de establecer una métrica precisa de la violencia. [Documento 1]",
+    "retrieved_chunks": [
+      {
+        "score": 0.783,
+        "text": "ste ejercicio de transparencia no \npermite dar una respuesta definitiva pues solo existen datos en \n11 de las 32 entidades federativas. A continuación se muestra \nuna tabla con un resumen de las respuestas con registros y una \ngráfica que muestra la evolución a partir de 2010:\nLa falta de datos se debe en primer término a las \ncapacidades institucionales referentes a la sistematización de \nregistros y a la forma cómo se maneja todo el proceso penal \nen el país. En segundo término, la falta de respuestas de las \nentidades federativas constituye un obstáculo para entender \ncómo es la incidencia de estos homicidios. En la siguiente se",
+        "doc_id": "Documento 1",
+        "doc_name": "Documento 1: ONC - Homicidio: Una mirada a la violencia en México",
+        "chunk_id": "Documento 1_chunk_0802"
+      },
+      {
+        "score": 0.757,
+        "text": "nvestigación hemerográfica para obtener una \ngran listado con las centenas de agresiones cometidas \ncontra medios de comunicación y periodistas, así como de \nlos homicidios y desapariciones de las que han sido objeto \npor su labor profesional. Señalamos que esto suena un \ntanto irónico porque estamos hablando de un país que no \nestá enfrentando una guerra civil o interna como sucede en \notros países de Asia o África, se trata de un país en el cual \nla violencia es ejercida por distintos sujetos activos que van \ndesde los grupos de delincuencia tradicional u organizada \nhasta las autoridades.\nEsto que podría considerarse un factor sin importancia",
+        "doc_id": "Documento 1",
+        "doc_name": "Documento 1: ONC - Homicidio: Una mirada a la violencia en México",
+        "chunk_id": "Documento 1_chunk_0916"
+      },
+      {
+        "score": 0.755,
+        "text": "a Declaración de Ginebra (2011) en torno \na los tipos de violencia que suelen tener como desenlace \ncierto tipo de homicidios. Esta organización plantea que \nesta aproximación conceptual y de análisis es relevante \ndebido a que en años recientes en países como Irak, \nMéxico y Somalia los límites entre la violencia política, \ncriminal, íntima o de género se han vuelto en demasía \ndifusos. Derivado de ello, este organismo propone una \nperspectiva unificada para aproximarse a estos fenómenos \ncomo violencia armada, pues bajo dicho paradigma es \nposible apreciar que las distinciones mencionadas capturan \ny hacen referencia a distintos niveles de organización y de",
+        "doc_id": "Documento 1",
+        "doc_name": "Documento 1: ONC - Homicidio: Una mirada a la violencia en México",
+        "chunk_id": "Documento 1_chunk_0132"
+      }
+    ],
+    "retrieval_top_score": 0.783
+  }
+}

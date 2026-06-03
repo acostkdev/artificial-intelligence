@@ -1,0 +1,1896 @@
+ 
+REPORTE DE RESULTADOS 33/25 
+ 
+ENCUESTA NACIONAL 
+DE VICTIMIZACIÓN Y PERCEPCIÓN 
+SOBRE SEGURIDAD PÚBLICA (ENVIPE) 
+18 de septiembre de 2025 
+Página 1/31 
+ 
+ 
+Contenido 
+I. 
+Objetivo ........................................................................................................................................................................ 2 
+II. 
+Ficha metodológica ...................................................................................................................................................... 2 
+III. 
+Principales resultados .................................................................................................................................................. 3 
+IV. 
+Victimización ................................................................................................................................................................ 3 
+V. 
+Incidencia delictiva-tipos de delito................................................................................................................................ 5 
+Incidencia delictiva: secuestro de alguna o algún integrante del hogar………………………………………………………10 
+Incidencia delictiva (tasa de delitos) por entidad federativa………………………………………………………………..11 
+VI. 
+Costo del delito .......................................................................................................................................................... 13 
+VII. 
+Cifra oculta ................................................................................................................................................................. 15 
+Razones de la no denuncia…………………………………………………………………………………………………….19 
+VIII. 
+Percepción sobre seguridad pública .......................................................................................................................... 19 
+Principales preocupaciones……………………………………………………………………………………………………19 
+Percepción sobre inseguridad pública 2013–2025…………………………………………………………………………..20 
+Percepción sobre inseguridad pública en la entidad federativa……………………………………………………………..21 
+Percepción sobre la seguridad al caminar en la noche………………………………………………………………………22 
+Percepción sobre inseguridad pública en distintos lugares………………………………………………………………….24 
+Atestiguación de conductas delictivas o antisociales………………………………………………………………………..25 
+IX. 
+Cambio de hábitos por inseguridad ........................................................................................................................... 26 
+X. 
+Desempeño institucional ............................................................................................................................................ 27 
+Identificación de autoridades……………………………………………..……………………………………………………27 
+Percepción del desempeño…………………………………………………………………………………………………….28 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE BREAK ---
+
+ 
+REPORTE DE RESULTADOS 33/25 
+ 
+ENCUESTA NACIONAL 
+DE VICTIMIZACIÓN Y PERCEPCIÓN 
+SOBRE SEGURIDAD PÚBLICA (ENVIPE) 
+18 de septiembre de 2025 
+Página 2/31 
+I. OBJETIVO 
+ 
+La Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE) 2025 
+genera estimaciones estadísticas sobre la victimización que afecta de manera directa a las 
+personas y a los hogares en los delitos como robo total de vehículo, robo parcial de vehículo, 
+robo en casa habitación y robo o asalto en calle o transporte público. También se consideran 
+el robo (como carterismo, allanamientos con robo en patio o cochera y abigeato), fraude, 
+extorsión, amenazas, lesiones, secuestros y delitos sexuales. Nótese que delitos como 
+narcotráfico, delincuencia organizada, robo de combustible y trata de personas —entre otros 
+de este tipo— no son susceptibles de medirse en una encuesta de victimización. 
+ 
+Su objetivo es obtener información con representatividad a nivel nacional y estatal, que permita 
+realizar estimaciones de la prevalencia delictiva que afectó a los hogares durante 2024, los 
+niveles de incidencia delictiva y cifra oculta. Adicionalmente, se busca obtener información 
+sobre la percepción de la seguridad pública y el desempeño de las instituciones a cargo de la 
+seguridad pública y la justicia. También se recaba información sobre las características del 
+delito, el contexto de la victimización y el impacto económico y social del delito. Esto a fin de 
+proveer información al público en general y para la toma de decisiones de política pública en 
+estas materias. 
+ 
+II. FICHA METODOLÓGICA 
+ 
+Antecedentes 
+La Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE) 
+inició su captación en 2011. 
+Cobertura 
+temática 
+Prevalencia delictiva en hogares y personas; Incidencia delictiva por tipo de delito; costos 
+por victimización delictiva; cifra oculta (cifra negra); conflictos y conductas antisociales, 
+desempeño de autoridades de seguridad pública; percepción de seguridad pública; 
+cambios de hábitos por temor a la delincuencia. 
+Cobertura 
+geográfica 
+Nacional, nacional urbano, nacional rural, entidad federativa y 34 áreas urbanas de interés, 
+con Ciudad de México, dividida en cuatro regiones geográficas.  
+Cobertura 
+temporal 
+Enero a diciembre de 2024, para victimización. 
+Marzo y abril de 2025, para percepción sobre la seguridad pública y desempeño de las 
+autoridades. 
+Periodicidad 
+Anual 
+Periodo de la 
+captación 
+Del 05 de marzo al 30 de abril de 2025 
+Esquema de 
+muestreo 
+Probabilístico, trietápico, estratificado y por conglomerados. 
+Tamaño de 
+muestra 
+102 076 viviendas 
+Unidad de 
+observación y 
+muestreo 
+Viviendas 
+Unidad de 
+análisis 
+Las viviendas seleccionadas, los hogares, las y los residentes del hogar y la persona 
+seleccionada en el hogar. 
+ 
+
+
+[TABLA]
+Antecedentes |  | La Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE)
+ |  | inició su captación en 2011.
+Cobertura
+temática | Prevalencia delictiva en hogares y personas; Incidencia delictiva por tipo de delito; costos
+por victimización delictiva; cifra oculta (cifra negra); conflictos y conductas antisociales,
+desempeño de autoridades de seguridad pública; percepción de seguridad pública;
+cambios de hábitos por temor a la delincuencia. | 
+Cobertura
+geográfica | Nacional, nacional urbano, nacional rural, entidad federativa y 34 áreas urbanas de interés,
+con Ciudad de México, dividida en cuatro regiones geográficas. | 
+Cobertura
+temporal | Enero a diciembre de 2024, para victimización.
+Marzo y abril de 2025, para percepción sobre la seguridad pública y desempeño de las
+autoridades. | 
+Periodicidad | Anual | 
+Periodo de la
+captación | Del 05 de marzo al 30 de abril de 2025 | 
+Esquema de
+muestreo | Probabilístico, trietápico, estratificado y por conglomerados. | 
+Tamaño de
+muestra | 102 076 viviendas | 
+Unidad de
+observación y
+muestreo | Viviendas | 
+Unidad de
+análisis | Las viviendas seleccionadas, los hogares, las y los residentes del hogar y la persona
+seleccionada en el hogar. | 
+[/TABLA]
+
+
+--- PAGE BREAK ---
+
+ 
+REPORTE DE RESULTADOS 33/25 
+ 
+ENCUESTA NACIONAL 
+DE VICTIMIZACIÓN Y PERCEPCIÓN 
+SOBRE SEGURIDAD PÚBLICA (ENVIPE) 
+18 de septiembre de 2025 
+Página 3/31 
+III. PRINCIPALES RESULTADOS 
+ 
+Cuadro 1 
+Resumen de principales indicadores 
+2024 y 2025 para percepción de inseguridad 
+Hogares con al menos una víctima del delito 
+Millones 
+11.4 
+Porcentaje 
+29.0 
+Victimización  
+(población de 18 años y más) 
+Millones 
+23.1 
+Tasa por cada 100 mil habitantes 
+24 135 
+Millones de hombres 
+10.9 
+Tasa por cada 100 mil hab. hombres 
+25 010 
+Millones de mujeres 
+12.2  
+Tasa por cada 100 mil hab. mujeres 
+23 399 
+Delitos  
+(delitos ocurridos) 
+Millones  
+33.5 
+Tasa por cada 100 mil habitantes 
+34 918 
+Cifra oculta 
+(delitos no denunciados o denunciados que no derivaron 
+en carpeta de investigación) 
+Porcentaje 
+93.2 
+Percepción de inseguridad  
+(entre marzo y abril de 2025)  
+(población de 18 años y más que percibe inseguridad en 
+su entidad federativa) 
+Porcentaje (total) 
+75.6 
+Porcentaje (mujeres) 
+79.4 
+Porcentaje (hombres) 
+70.9 
+Costo nacional estimado a consecuencia de la 
+inseguridad y el delito1/ 
+269.6 mil millones de pesos  
+1.07 % del PIB 
+1/ 
+Pesos a precios de la segunda quincena de julio de 2018. 
+Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE) 2025. 
+ 
+IV. VICTIMIZACIÓN 
+ 
+En 2024, se estimaron 23.1 millones de personas de 18 años y más que fueron víctimas de 
+delitos. La cifra equivale a 24 135 víctimas por cada 100 mil habitantes, lo que resulta 
+estadísticamente superior a lo estimado en 2023: 21.9 millones y 23 323, respectivamente  
+(ver gráfica 1). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+[TABLA]
+Hogares con al menos una víctima del delito | Millones | 11.4
+ | Porcentaje | 29.0
+Victimización
+(población de 18 años y más) | Millones | 23.1
+ | Tasa por cada 100 mil habitantes | 24 135
+ | Millones de hombres | 10.9
+ | Tasa por cada 100 mil hab. hombres | 25 010
+ | Millones de mujeres | 12.2
+ | Tasa por cada 100 mil hab. mujeres | 23 399
+Delitos
+(delitos ocurridos) | Millones | 33.5
+ | Tasa por cada 100 mil habitantes | 34 918
+Cifra oculta
+(delitos no denunciados o denunciados que no derivaron
+en carpeta de investigación) | Porcentaje | 93.2
+Percepción de inseguridad
+(entre marzo y abril de 2025)
+(población de 18 años y más que percibe inseguridad en
+su entidad federativa) | Porcentaje (total) | 75.6
+ | Porcentaje (mujeres) | 79.4
+ | Porcentaje (hombres) | 70.9
+Costo nacional estimado a consecuencia de la
+inseguridad y el delito1/ | 269.6 mil millones de pesos
+1.07 % del PIB | 
+[/TABLA]
+
+
+--- PAGE BREAK ---
+
+ 
+REPORTE DE RESULTADOS 33/25 
+ 
+ENCUESTA NACIONAL 
+DE VICTIMIZACIÓN Y PERCEPCIÓN 
+SOBRE SEGURIDAD PÚBLICA (ENVIPE) 
+18 de septiembre de 2025 
+Página 4/31 
+Gráfica 1 
+Víctimas de delito por cada 100 mil habitantes 
+2012-2024 
+(víctimas) 
+ 
+1/ 
+Cambio estadísticamente significativo con respecto al año anterior. 
+Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE), 2013 a 2025. 
+ 
+Uno de los principales indicadores que se genera con las encuestas de victimización es la tasa 
+de víctimas por cada 100 mil habitantes, lo que se conoce como prevalencia delictiva. En 2024, 
+la tasa de mujeres víctimas de delitos no presentó cambio estadístico con respecto a 2023, 
+mientras que la de hombres resultó estadísticamente mayor. En 2024 se registraron  
+23 399 mujeres y 25 010 hombres víctimas por cada 100 mil habitantes (ver gráfica 2). 
+ 
+Gráfica 2 
+Víctimas de delito por cada 100 mil habitantes, según sexo 
+2012- 2024 
+(víctimas) 
+ 
+1/ 
+Cambio estadísticamente significativo con respecto al año anterior. 
+Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE), 2013 a 2025. 
+
+
+--- PAGE BREAK ---
+
+ 
+REPORTE DE RESULTADOS 33/25 
+ 
+ENCUESTA NACIONAL 
+DE VICTIMIZACIÓN Y PERCEPCIÓN 
+SOBRE SEGURIDAD PÚBLICA (ENVIPE) 
+18 de septiembre de 2025 
+Página 5/31 
+Al comparar con 2023, en 2024 la tasa de víctimas de delito bajó en siete entidades federativas, 
+aumentó en otras siete y no tuvo cambios en 18. En ese mismo año, en 10 entidades 
+federativas las tasas superaron a la nacional. Las más altas se registraron en el estado de 
+México, con 34 851; Ciudad de México, con 30 804, y Tlaxcala, con 30 498. Las tasas más 
+bajas se presentaron en Chiapas, con 15 576; en Tamaulipas, con 16 537, y en Michoacán de 
+Ocampo, con 16 572 (ver cuadro 2). 
+Cuadro 2 
+Tasa de víctimas de delito por cada 100 mil habitantes, según entidad federativa 
+2023 y 2024 
+Entidad 
+2023 
+2024 
+Cambio  
+porcentual 
+Entidad 
+2023 
+2024 
+Cambio  
+porcentual 
+NACIONAL 
+  23 323 
+ 24 135 
+ 
+3.5 
+ 
+ 
+ 
+ 
+  
+Aguascalientes 
+  32 798 
+ 29 473 
+ 
+-10.1 
+Morelos 
+  25 820 
+ 23 812 
+ 
+-7.8 
+Baja California 
+  23 796 
+ 20 647 
+ 
+-13.2 
+Nayarit 
+  17 382 
+ 17 128 
+ 
+-1.5 
+Baja California Sur 
+  21 621 
+ 18 827 
+ 
+-12.9 
+Nuevo León 
+  22 498 
+ 23 133 
+ 
+2.8 
+Campeche 
+  22 560 
+ 18 610 
+ 
+-17.5 
+Oaxaca 
+  13 274 
+ 21 303 
+ 
+60.5 
+Coahuila de Zaragoza 
+  19 371 
+ 20 007 
+ 
+3.3 
+Puebla 
+  25 196 
+ 29 209 
+ 
+15.9 
+Colima 
+  21 206 
+ 18 882 
+ 
+-11.0 
+Querétaro  
+  27 735 
+ 28 790 
+ 
+3.8 
+Chiapas 
+  14 139 
+ 15 576 
+ 
+10.2 
+Quintana Roo 
+  22 190 
+ 25 599 
+ 
+15.4 
+Chihuahua 
+  22 565 
+ 20 601 
+ 
+-8.7 
+San Luis Potosí 
+  23 591 
+ 25 468 
+ 
+8.0 
+Ciudad de México 
+  32 497 
+ 30 804 
+ 
+-5.2 
+Sinaloa 
+  20 839 
+ 20 824 
+ 
+-0.1 
+Durango 
+  16 375 
+ 20 215 
+ 
+23.5 
+Sonora 
+  26 298 
+ 23 260 
+ 
+-11.6 
+Guanajuato 
+  19 420 
+ 20 490 
+ 
+5.5 
+Tabasco 
+  25 688 
+ 24 874 
+ 
+-3.2 
+Guerrero 
+  15 602 
+ 19 006 
+ 
+21.8 
+Tamaulipas 
+  18 104 
+ 16 537 
+ 
+-8.7 
+Hidalgo 
+  21 164 
+ 19 272 
+ 
+-8.9 
+Tlaxcala 
+  23 025 
+ 30 498 
+ 
+32.5 
+Jalisco 
+  24 793 
+ 24 179 
+ 
+-2.5 
+Veracruz de Ignacio de la Llave 
+  15 487 
+ 17 503 
+ 
+13.0 
+México 
+  32 971 
+ 34 851 
+ 
+5.7 
+Yucatán 
+  19 167 
+ 21 073 
+ 
+9.9 
+Michoacán de Ocampo 
+  14 993 
+ 16 572 
+ 
+10.5 
+Zacatecas 
+  16 422 
+ 18 690 
+ 
+13.8 
+Nota: 
+  De acuerdo con las pruebas de hipótesis correspondientes, en estos casos, hubo diferencia estadística significativa con respecto al nivel 
+estimado para el año anterior. Los márgenes de error de las estimaciones por entidad federativa para el año de referencia 2024, en promedio, 
+son de 7 %, con un máximo de error de hasta 10 % para un caso y un mínimo de margen de error de 4 % para un caso. Para mayor detalle, 
+ver tabulados básicos ENVIPE 2025. 
+Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE), 2024 y 2025. 
+ 
+V. INCIDENCIA DELICTIVA-TIPOS DE DELITO 
+ 
+Para 2024, se estimaron 33.5 millones de delitos1 asociados con 23.1 millones de víctimas, lo 
+que equivale a una tasa de 34 918 delitos por cada 100 mil habitantes. Esto representa una 
+tasa de 1.4 delitos por víctima (similar a la de 2023). Las pruebas de hipótesis demuestran que, 
+estadísticamente, la tasa de incidencia delictiva aumentó respecto a 2023 (ver gráficas 3 y 4). 
+ 
+1 La ENVIPE 2025 mide los delitos más representativos del fuero común. Delitos como delincuencia organizada, narcotráfico, portación de armas 
+exclusivas del Ejército, tráfico de indocumentados, entre otros, no son susceptibles de captarse en una encuesta de victimización como esta. 
+
+
+[TABLA]
+ |  |  | Cambio |  |  |  |  | Cambio | 
+Entidad | 2023 | 2024 |  |  | Entidad | 2023 | 2024 |  | 
+ |  |  | porcentual |  |  |  |  | porcentual | 
+ |  |  |  |  |  |  |  |  | 
+NACIONAL | 23 323 | 24 135 |  | 3.5 |  |  |  |  | 
+Aguascalientes | 32 798 | 29 473 |  | -10.1 | Morelos | 25 820 | 23 812 |  | -7.8
+Baja California | 23 796 | 20 647 |  | -13.2 | Nayarit | 17 382 | 17 128 |  | -1.5
+Baja California Sur | 21 621 | 18 827 |  | -12.9 | Nuevo León | 22 498 | 23 133 |  | 2.8
+Campeche | 22 560 | 18 610 |  | -17.5 | Oaxaca | 13 274 | 21 303 |  | 60.5
+Coahuila de Zaragoza | 19 371 | 20 007 |  | 3.3 | Puebla | 25 196 | 29 209 |  | 15.9
+Colima | 21 206 | 18 882 |  | -11.0 | Querétaro | 27 735 | 28 790 |  | 3.8
+Chiapas | 14 139 | 15 576 |  | 10.2 | Quintana Roo | 22 190 | 25 599 |  | 15.4
+Chihuahua | 22 565 | 20 601 |  | -8.7 | San Luis Potosí | 23 591 | 25 468 |  | 8.0
+ |  |  |  |  |  |  |  |  | 
+Ciudad de México | 32 497 | 30 804 |  | -5.2 | Sinaloa | 20 839 | 20 824 |  | -0.1
+ |  |  |  |  |  |  |  |  | 
+Durango | 16 375 | 20 215 |  | 23.5 | Sonora | 26 298 | 23 260 |  | -11.6
+ |  |  |  |  |  |  |  |  | 
+Guanajuato | 19 420 | 20 490 |  | 5.5 | Tabasco | 25 688 | 24 874 |  | -3.2
+ |  |  |  |  |  |  |  |  | 
+Guerrero | 15 602 | 19 006 |  | 21.8 | Tamaulipas | 18 104 | 16 537 |  | -8.7
+Hidalgo | 21 164 | 19 272 |  | -8.9 | Tlaxcala | 23 025 | 30 498 |  | 32.5
+Jalisco | 24 793 | 24 179 |  | -2.5 | Veracruz de Ignacio de la Llave | 15 487 | 17 503 |  | 13.0
+ |  |  |  |  |  |  |  |  | 
+México | 32 971 | 34 851 |  | 5.7 | Yucatán | 19 167 | 21 073 |  | 9.9
+ |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | 
+Michoacán de Ocampo | 14 993 | 16 572 |  | 10.5 | Zacatecas | 16 422 | 18 690 |  | 13.8
+ |  |  |  |  |  |  |  |  | 
+[/TABLA]
+
+
+--- PAGE BREAK ---
+
+ 
+REPORTE DE RESULTADOS 33/25 
+ 
+ENCUESTA NACIONAL 
+DE VICTIMIZACIÓN Y PERCEPCIÓN 
+SOBRE SEGURIDAD PÚBLICA (ENVIPE) 
+18 de septiembre de 2025 
+Página 6/31 
+Gráfica 3 
+Incidencia delictiva por cada 100 mil habitantes 
+2012-2024 
+(delitos) 
+ 
+1/ 
+Cambio estadísticamente significativo con respecto al año anterior. 
+Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE), 2013 a 2025. 
+ 
+Gráfica 4 
+Delitos ocurridos 
+2012-2024 
+(millones de delitos) 
+ 
+1/ 
+Cambio estadísticamente significativo con respecto al año anterior. 
+Fuente: 
+INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE), 2013 
+a 2025. 
+
+
+--- PAGE BREAK ---
+
+ 
+REPORTE DE RESULTADOS 33/25 
+ 
+ENCUESTA NACIONAL 
+DE VICTIMIZACIÓN Y PERCEPCIÓN 
+SOBRE SEGURIDAD PÚBLICA (ENVIPE) 
+18 de septiembre de 2025 
+Página 7/31 
+Por tipo, el delito más frecuente fue fraude, con una tasa de 7 574 por cada 100 mil habitantes. 
+Siguieron robo o asalto en calle o transporte público, con 6 003, y extorsión, con 5 971. Dichos 
+delitos presentaron una tasa de concentración de 21.7, 17.2 y 17.1 %, respectivamente  
+(ver gráfica 5 y cuadro 3). 
+Gráfica 5 
+Delitos por cada 100 mil habitantes, según tipo 
+2023 y 2024 
+(delitos) 
+ 
+1/ 
+Incluye fraude bancario y fraude al consumidor. 
+2/ 
+Incluye delitos como secuestro o secuestro exprés, delitos sexuales y otros delitos. 
+3/ 
+Se refiere a robos distintos de robo o asalto en la calle o en el transporte, robo total o parcial de vehículo y robo en 
+casa habitación. 
+4/ 
+Cambio estadísticamente significativo con respecto al año anterior. 
+Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE), 2024 y 2025. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE BREAK ---
+
+ 
+REPORTE DE RESULTADOS 33/25 
+ 
+ENCUESTA NACIONAL 
+DE VICTIMIZACIÓN Y PERCEPCIÓN 
+SOBRE SEGURIDAD PÚBLICA (ENVIPE) 
+18 de septiembre de 2025 
+Página 8/31 
+Cuadro 3 
+Distribución porcentual de delitos, según tipo 
+2024 
+Tipo de delito 
+% 
+Fraude1/ 
+21.7 
+Robo o asalto en calle o transporte público 
+17.2 
+Extorsión 
+17.1 
+Amenazas 
+13.4 
+Robo total o parcial de vehículo 
+9.6 
+Otros delitos2/ 
+8.2 
+Robo en casa habitación 
+4.6 
+Lesiones 
+4.6 
+Otros robos3/ 
+3.7 
+ 
+1/ 
+Incluye fraude bancario y fraude al consumidor. 
+2/ 
+Incluye delitos como secuestro o secuestro exprés, delitos sexuales y otros delitos. 
+3/ 
+Se refiere a robos distintos de robo o asalto en la calle o en el transporte, robo total 
+o parcial de vehículo y robo en casa habitación. 
+Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública 
+(ENVIPE), 2025. 
+ 
+En la mayoría de los delitos personales, es decir aquellos que afectan a la persona 
+directamente y no a una colectividad como un hogar, la incidencia delictiva fue mayor en 
+hombres que en mujeres. 
+ 
+En cuanto a delitos sexuales, se estimó una tasa de 4 160 delitos por cada 100 mil mujeres, 
+cifra estadísticamente equivalente a los 4 290 delitos estimados en 2023. En 2024, la tasa de 
+incidencia de los delitos sexuales por cada 100 mil mujeres se compone por 279 para violación 
+sexual y 3 881 para otros delitos sexuales. Se contabilizaron ocho delitos sexuales cometidos 
+a mujeres por cada delito sexual cometido a hombres (ver gráficas 6 y 7). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+[TABLA]
+Tipo de delito | %
+Fraude1/ | 21.7
+Robo o asalto en calle o transporte público | 17.2
+Extorsión | 17.1
+Amenazas | 13.4
+Robo total o parcial de vehículo | 9.6
+Otros delitos2/ | 8.2
+Robo en casa habitación | 4.6
+Lesiones | 4.6
+Otros robos3/ | 3.7
+[/TABLA]
+
+
+--- PAGE BREAK ---
+
+ 
+REPORTE DE RESULTADOS 33/25 
+ 
+ENCUESTA NACIONAL 
+DE VICTIMIZACIÓN Y PERCEPCIÓN 
+SOBRE SEGURIDAD PÚBLICA (ENVIPE) 
+18 de septiembre de 2025 
+Página 9/31 
+Gráfica 6 
+Delitos por cada 100 mil habitantes,  
+según tipo de delito y sexo de la víctima 
+2024 
+(delitos)
+ 
+Nota: 
+Al presentar la tasa de delitos según sexo de la víctima, se excluyen los delitos del hogar: robo total o parcial de vehículo y robo a 
+casa habitación. En estos casos, todas y todos los integrantes del hogar son victimizados, sin hacer distinción de sexo o edad. 
+1/ 
+Incluye fraude bancario y fraude al consumidor. 
+2/ 
+Incluye delitos sexuales como hostigamiento o intimidación sexual, manoseo, exhibicionismo, intento de violación y violación sexual. 
+3/ 
+Se refiere a robos distintos de robo o asalto en la calle o en el transporte, robo total o parcial de vehículo y robo en casa habitación. 
+4/ 
+Incluye delitos como secuestro o secuestro exprés y otros delitos. 
+Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE), 2025. 
+ 
+Gráfica 7 
+Delitos sexuales por cada 100 mil mujeres, según tipo 
+2024 
+(delitos) 
+ 
+1/ 
+Incluye delitos sexuales, tales como hostigamiento o intimidación sexual, manoseo, 
+exhibicionismo, intento de violación. 
+Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE), 2025. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE BREAK ---
+
+ 
+REPORTE DE RESULTADOS 33/25 
+ 
+ENCUESTA NACIONAL 
+DE VICTIMIZACIÓN Y PERCEPCIÓN 
+SOBRE SEGURIDAD PÚBLICA (ENVIPE) 
+18 de septiembre de 2025 
+Página 10/31 
+Incidencia delictiva: secuestro de alguna o algún integrante del hogar 
+ 
+Durante 2024, se estimaron 94 679 secuestros de alguna persona integrante del hogar y  
+92 888 víctimas (ver gráfica 8). 
+ 
+Gráfica 8 
+Secuestro de alguna o algún integrante del hogar 
+2012-2024 
+(víctimas y delitos) 
+ 
+Nota: 
+Los intervalos de confianza de las estimaciones de víctimas y delitos de secuestro se pueden consultar en los tabulados básicos.  
+1/ 
+Cambio estadísticamente significativo con respecto al año anterior. 
+Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE), 2013 a 2025. 
+ 
+En 2024, la tasa de víctimas de secuestro por cada 100 mil habitantes fue de 71, mientras que 
+la tasa de incidencia fue de 72 secuestros. En el mismo año, 43.5 % de los secuestros duró 
+menos de 24 horas (ver cuadros 4 y 5). 
+ 
+Cuadro 4 
+Tasa de víctimas y delitos de secuestro por cada 100 mil habitantes 
+2012-2024 
+ 
+1/ 
+La tasa por cada 100 mil habitantes que se presenta en este tabulado se construye a partir de la totalidad de personas en el país. 
+2/ 
+Cambio estadísticamente significativo con respecto al año anterior. 
+Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE), 2013 a 2025. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE BREAK ---
+
+ 
+REPORTE DE RESULTADOS 33/25 
+ 
+ENCUESTA NACIONAL 
+DE VICTIMIZACIÓN Y PERCEPCIÓN 
+SOBRE SEGURIDAD PÚBLICA (ENVIPE) 
+18 de septiembre de 2025 
+Página 11/31 
+Cuadro 5 
+Duración de los delitos de secuestro 
+2012-2024 
+(porcentaje) 
+ 
+1/ 
+Cambio estadísticamente significativo con respecto al año anterior. 
+2/ 
+No se recomienda el uso de estos datos para obtener conclusiones cuantitativas, ya que sus coeficientes de variación son mayores 
+o iguales a 30 por ciento. Solo se presentan para análisis cualitativo. 
+Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE), 2013 a 2025. 
+ 
+Incidencia delictiva (tasa de delitos) por entidad federativa 
+ 
+Al comparar con 2023, en 2024, la tasa de delitos por cada 100 mil habitantes bajó en  
+cuatro entidades federativas, creció en 11 y en 17 no presentó cambios. En 2024,  
+nueve entidades registraron tasas mayores a la nacional. Las entidades con las tasas más 
+altas fueron Ciudad de México, con 54 473; estado de México, con 48 426, y Querétaro, con 
+45 107. Las entidades con las tasas más bajas fueron Nayarit, con 21 727; Baja California Sur, 
+con 21 922, y Campeche, con 22 071 (ver cuadro 6). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE BREAK ---
+
+ 
+REPORTE DE RESULTADOS 33/25 
+ 
+ENCUESTA NACIONAL 
+DE VICTIMIZACIÓN Y PERCEPCIÓN 
+SOBRE SEGURIDAD PÚBLICA (ENVIPE) 
+18 de septiembre de 2025 
+Página 12/31 
+Cuadro 6 
+Tasa de incidencia delictiva por cada 100 mil habitantes, según entidad federativa 
+2023 y 2024 
+Entidad 
+2023 
+2024 
+Cambio  
+porcentual 
+Entidad 
+2023 
+2024 
+Cambio  
+porcentual 
+NACIONAL 
+  33 267 
+ 34 918 
+ 
+5.0   
+  
+  
+  
+  
+Aguascalientes 
+  45 262 
+ 33 960 
+ 
+-25.0 Morelos 
+  36 278 
+ 40 229 
+ 
+10.9 
+Baja California 
+  31 198 
+ 25 425 
+ 
+-18.5 Nayarit 
+  23 607 
+ 21 727 
+ 
+-8.0 
+Baja California Sur 
+  25 661 
+ 21 922 
+ 
+-14.6 Nuevo León 
+  28 171 
+ 33 485 
+ 
+18.9 
+Campeche 
+  31 793 
+ 22 071 
+ 
+-30.6 Oaxaca 
+  18 575 
+ 31 561 
+ 
+69.9 
+Coahuila de Zaragoza 
+  24 661 
+ 22 266 
+ 
+-9.7 Puebla 
+  38 642 
+ 44 203 
+ 
+14.4 
+Colima 
+  28 522 
+ 30 839 
+ 
+8.1 Querétaro  
+  40 755 
+ 45 107 
+ 
+10.7 
+Chiapas 
+  16 038 
+ 22 366 
+ 
+39.5 Quintana Roo 
+  30 294 
+ 40 376 
+ 
+33.3 
+Chihuahua 
+  29 090 
+ 27 140 
+ 
+-6.7 San Luis Potosí 
+  31 764 
+ 38 336 
+ 
+20.7 
+Ciudad de México 
+  52 723 
+ 54 473 
+ 
+3.3 Sinaloa 
+  29 984 
+ 29 377 
+ 
+-2.0 
+Durango 
+  18 230 
+ 28 244 
+ 
+54.9 Sonora 
+  37 613 
+ 32 448 
+ 
+-13.7 
+Guanajuato 
+  26 620 
+ 26 310 
+ 
+-1.2 Tabasco 
+  38 004 
+ 35 853 
+ 
+-5.7 
+Guerrero 
+  23 989 
+ 26 799 
+ 
+11.7 Tamaulipas 
+  25 129 
+ 25 116 
+ 
+-0.1 
+Hidalgo 
+  26 894 
+ 26 113 
+ 
+-2.9 Tlaxcala 
+  28 576 
+ 35 413 
+ 
+23.9 
+Jalisco 
+  31 731 
+ 33 329 
+ 
+5.0 Veracruz de Ignacio de la Llave 
+  20 272 
+ 26 261 
+ 
+29.5 
+México 
+  51 881 
+ 48 426 
+ 
+-6.7 Yucatán 
+  24 952 
+ 32 127 
+ 
+28.8 
+Michoacán de Ocampo 
+  19 688 
+ 23 819 
+ 
+21.0 Zacatecas 
+  27 007 
+ 29 167 
+ 
+8.0 
+Nota: 
+  De acuerdo con las pruebas de hipótesis correspondientes, en estos casos, hubo diferencia estadística significativa con respecto 
+al nivel estimado para el año anterior. Los márgenes de error de las estimaciones por entidad federativa para el año de referencia 2024, 
+en promedio, son de 11 %, con un máximo de error de hasta 15 % para dos casos y un mínimo de margen de error de 8 % para tres 
+casos. Para mayor detalle, ver tabulados básicos ENVIPE 2025.  
+Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE), 2024 y 2025. 
+ 
+En 19 entidades federativas, el delito más frecuente fue fraude. Siguieron extorsión y robo o 
+asalto en calle o en el transporte público, en ocho entidades y tres entidades, respectivamente, 
+mientras que en una entidad lo fueron el robo total o parcial de vehículo y las amenazas  
+(ver mapa 1). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+[TABLA]
+ |  |  | Cambio |  |  |  |  | Cambio | 
+Entidad | 2023 | 2024 |  |  | Entidad | 2023 | 2024 |  | 
+ |  |  | porcentual |  |  |  |  | porcentual | 
+ |  |  |  |  |  |  |  |  | 
+NACIONAL | 33 267 | 34 918 |  | 5.0 |  |  |  |  | 
+Aguascalientes | 45 262 | 33 960 |  | -25.0 | Morelos | 36 278 | 40 229 |  | 10.9
+Baja California | 31 198 | 25 425 |  | -18.5 | Nayarit | 23 607 | 21 727 |  | -8.0
+Baja California Sur | 25 661 | 21 922 |  | -14.6 | Nuevo León | 28 171 | 33 485 |  | 18.9
+Campeche | 31 793 | 22 071 |  | -30.6 | Oaxaca | 18 575 | 31 561 |  | 69.9
+Coahuila de Zaragoza | 24 661 | 22 266 |  | -9.7 | Puebla | 38 642 | 44 203 |  | 14.4
+ |  |  |  |  |  |  |  |  | 
+Colima | 28 522 | 30 839 |  | 8.1 | Querétaro | 40 755 | 45 107 |  | 10.7
+ |  |  |  |  |  |  |  |  | 
+Chiapas | 16 038 | 22 366 |  | 39.5 | Quintana Roo | 30 294 | 40 376 |  | 33.3
+Chihuahua | 29 090 | 27 140 |  | -6.7 | San Luis Potosí | 31 764 | 38 336 |  | 20.7
+ |  |  |  |  |  |  |  |  | 
+Ciudad de México | 52 723 | 54 473 |  | 3.3 | Sinaloa | 29 984 | 29 377 |  | -2.0
+ |  |  |  |  |  |  |  |  | 
+Durango | 18 230 | 28 244 |  | 54.9 | Sonora | 37 613 | 32 448 |  | -13.7
+ |  |  |  |  |  |  |  |  | 
+Guanajuato | 26 620 | 26 310 |  | -1.2 | Tabasco | 38 004 | 35 853 |  | -5.7
+ |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | 
+Guerrero | 23 989 | 26 799 |  | 11.7 | Tamaulipas | 25 129 | 25 116 |  | -0.1
+ |  |  |  |  |  |  |  |  | 
+Hidalgo | 26 894 | 26 113 |  | -2.9 | Tlaxcala | 28 576 | 35 413 |  | 23.9
+Jalisco | 31 731 | 33 329 |  | 5.0 | Veracruz de Ignacio de la Llave | 20 272 | 26 261 |  | 29.5
+México | 51 881 | 48 426 |  | -6.7 | Yucatán | 24 952 | 32 127 |  | 28.8
+Michoacán de Ocampo | 19 688 | 23 819 |  | 21.0 | Zacatecas | 27 007 | 29 167 |  | 8.0
+[/TABLA]
+
+
+--- PAGE BREAK ---
+
+ 
+REPORTE DE RESULTADOS 33/25 
+ 
+ENCUESTA NACIONAL 
+DE VICTIMIZACIÓN Y PERCEPCIÓN 
+SOBRE SEGURIDAD PÚBLICA (ENVIPE) 
+18 de septiembre de 2025 
+Página 13/31 
+Mapa 1 
+Delito más frecuente por entidad federativa 
+2024 
+(delitos) 
+ 
+ 
+Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE), 2025. 
+ 
+VI. COSTO DEL DELITO 
+ 
+ 
+El costo total del delito y la inseguridad en hogares se estimó en 269.6 mil millones de pesos. 
+En promedio, cada persona afectada perdió 6 226 pesos.2 El costo total representó 1.07 % del 
+Producto Interno Bruto (PIB). Las medidas preventivas que los hogares tomaron contra los 
+delitos representaron 34.0 % del monto total y las pérdidas por victimización, 62.0 %, y se 
+estimaron en 177.8 y 91.8 mil millones de pesos, respectivamente. Por su parte las pérdidas 
+económicas a consecuencia de los daños en la salud representaron 4.0 % y ascendieron a 
+10.7 mil millones de pesos.3 Entre las principales medidas preventivas realizadas por los 
+hogares se encuentran cambio de cerraduras o candados, con 22.8 %, y cambiar puertas o 
+ventanas, con 18.8 % (ver gráficas 9 y 10).  
+ 
+ 
+ 
+ 
+ 
+ 
+2 La ENVIPE 2024 permitió estimar que, durante 2023, esta cifra representó 6 853 pesos por persona afectada a consecuencia de la inseguridad 
+y el delito. 
+3 Pesos a precios de la segunda quincena de julio de 2018. 
+
+
+--- PAGE BREAK ---
+
+ 
+REPORTE DE RESULTADOS 33/25 
+ 
+ENCUESTA NACIONAL 
+DE VICTIMIZACIÓN Y PERCEPCIÓN 
+SOBRE SEGURIDAD PÚBLICA (ENVIPE) 
+18 de septiembre de 2025 
+Página 14/31 
+Gráfica 9 
+Porcentaje del costo del delito por tipo 
+2024 
+ 
+Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad 
+Pública (ENVIPE), 2025. 
+Gráfica 10 
+Porcentaje de hogares que gastó en medidas preventivas, por tipo1/ 
+2024 
+(porcentaje) 
+ 
+1/ 
+Un hogar pudo haber realizado más de una medida. 
+Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE), 2025. 
+ 
+Las víctimas de robo total de vehículo perdieron, en promedio, 32 439 pesos, y las de fraude, 
+7 039 pesos (ver gráfica 11). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE BREAK ---
+
+ 
+REPORTE DE RESULTADOS 33/25 
+ 
+ENCUESTA NACIONAL 
+DE VICTIMIZACIÓN Y PERCEPCIÓN 
+SOBRE SEGURIDAD PÚBLICA (ENVIPE) 
+18 de septiembre de 2025 
+Página 15/31 
+Gráfica 11 
+Pérdidas monetarias promedio anuales a consecuencia del delito1/ 
+2023 y 2024 
+(pesos) 
+ 
+ 
+Nota: 
+Pesos a precios de la segunda quincena de 2018. 
+1/ 
+Se refiere a las pérdidas monetarias totales por tipo de delito entre el número de personas que fueron víctimas de 
+dichos delitos. 
+2/ 
+Incluye fraude bancario y fraude al consumidor. 
+3/ 
+Incluye carterismo, allanamientos, abigeato y otros tipos de robo. 
+4/ 
+Incluye delitos como secuestro o secuestro exprés, delitos sexuales, daño en propiedad ajena y otros delitos. 
+5/ 
+Cambio estadísticamente significativo con respecto al año anterior. 
+Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE), 2024 y 2025. 
+ 
+VII. CIFRA OCULTA 
+ 
+En 2024, de los 33.5 millones de delitos ocurridos, solo 9.6 % se denunció. Esta cifra es 
+estadísticamente inferior al 10.4 % de 2023. El Ministerio Público (MP) —o fiscalía estatal— 
+abrió una carpeta de investigación en 70.5 % de estas denuncias. Lo anterior implica que  
+93.2 % de los delitos no se investigó (lo que se conoce como cifra oculta). El porcentaje resultó 
+similar al de 2023 (92.9 %). (Ver gráficas 12 y 13). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE BREAK ---
+
+ 
+REPORTE DE RESULTADOS 33/25 
+ 
+ENCUESTA NACIONAL 
+DE VICTIMIZACIÓN Y PERCEPCIÓN 
+SOBRE SEGURIDAD PÚBLICA (ENVIPE) 
+18 de septiembre de 2025 
+Página 16/31 
+Gráfica 12 
+Delitos denunciados ante el Ministerio Público o fiscalía estatal 
+2012-2024 
+(porcentaje) 
+ 
+Notas: La persona informante pudo haber confundido una carpeta de investigación con un acta de hechos. 
+1/ 
+Cambio estadísticamente significativo con respecto al año anterior. 
+2/ 
+Incluye los casos en los que no se especificó si se inició o no una carpeta de investigación. 
+Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE), 2013 a 2025. 
+ 
+Gráfica 13 
+Cifra oculta 
+2012-2024 
+(porcentaje) 
+ 
+1/ 
+Cambio estadísticamente significativo con respecto al año anterior. 
+Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE), 2013 a 2025. 
+ 
+Los delitos secuestro y extorsión registraron los porcentajes más elevados de cifra oculta, con 
+98.1 y 97.0 %, respectivamente. En contraste, el robo total de vehículo presentó la menor cifra 
+oculta, con 35.7 % (ver cuadro 7). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE BREAK ---
+
+ 
+REPORTE DE RESULTADOS 33/25 
+ 
+ENCUESTA NACIONAL 
+DE VICTIMIZACIÓN Y PERCEPCIÓN 
+SOBRE SEGURIDAD PÚBLICA (ENVIPE) 
+18 de septiembre de 2025 
+Página 17/31 
+Cuadro 7 
+Cifra oculta, según tipo de delito 
+2023 y 2024 
+(porcentaje) 
+ 
+ 
+1/ 
+Incluye fraude bancario y fraude al consumidor.  
+2/ 
+Se compone por violación sexual (87.5 %), hostigamiento o intimidación sexual (98.1 %) y otros delitos (83.5 %).  
+3/ 
+Se refiere a robos distintos de robo o asalto en la calle o en el transporte, robo total o parcial de vehículo y robo en casa 
+habitación. 
+4/ 
+Cambio estadísticamente significativo con respecto al año anterior. 
+Fuente: 
+INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE), 2024 y 2025. 
+ 
+Del total de las carpetas de investigación iniciadas por el MP, en 39.2 % de los casos no pasó 
+nada (ver gráficas 14 y 15). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE BREAK ---
+
+ 
+REPORTE DE RESULTADOS 33/25 
+ 
+ENCUESTA NACIONAL 
+DE VICTIMIZACIÓN Y PERCEPCIÓN 
+SOBRE SEGURIDAD PÚBLICA (ENVIPE) 
+18 de septiembre de 2025 
+Página 18/31 
+Gráfica 14 
+Resultado de denuncias ante el Ministerio Público o fiscalía estatal 
+2024 
+(porcentaje) 
+ 
+ 
+ 
+Nota: 
+El resultado de las carpetas de investigación que derivaron en la recuperación de sus bienes, haber puesto a la o el delincuente a 
+disposición de un(a) juez(a), haber otorgado el perdón o reparación del daño representó 0.8 % del total de los delitos (en 2023 fue 
+de 1.2 %). 
+Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE), 2025. 
+ 
+Gráfica 15 
+Resultado de la carpeta de investigación  
+(nada) 
+2012-2024 
+(porcentaje) 
+ 
+1/ 
+Cambio estadísticamente significativo con respecto al año anterior. 
+Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE), 2013 a 2025. 
+ 
+ 
+ 
+
+
+--- PAGE BREAK ---
+
+ 
+REPORTE DE RESULTADOS 33/25 
+ 
+ENCUESTA NACIONAL 
+DE VICTIMIZACIÓN Y PERCEPCIÓN 
+SOBRE SEGURIDAD PÚBLICA (ENVIPE) 
+18 de septiembre de 2025 
+Página 19/31 
+Razones de la no denuncia 
+ 
+Las razones más comunes para no denunciar delitos son la pérdida de tiempo, con 34.6 % y la 
+desconfianza en la autoridad, con 14.0 % (ver gráfica 16). 
+ 
+Gráfica 16 
+Razones para no denunciar delitos 
+2024 
+(porcentaje) 
+ 
+Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE), 2025. 
+ 
+ 
+VIII. PERCEPCIÓN SOBRE SEGURIDAD PÚBLICA 
+ 
+Principales preocupaciones 
+ 
+En 2025, 64.2 % de la población de 18 años y más consideró la inseguridad como el problema 
+más grave. Siguieron la salud, con 34.5 %, y el aumento de precios, con 31.9 %  
+(ver gráfica 17). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE BREAK ---
+
+ 
+REPORTE DE RESULTADOS 33/25 
+ 
+ENCUESTA NACIONAL 
+DE VICTIMIZACIÓN Y PERCEPCIÓN 
+SOBRE SEGURIDAD PÚBLICA (ENVIPE) 
+18 de septiembre de 2025 
+Página 20/31 
+ 
+ 
+Gráfica 17 
+Temas que generan mayor preocupación en la población 
+2024 y 2025 
+(porcentaje) 
+ 
+Notas: Se refiere al periodo marzo y abril de cada año. 
+La suma de los porcentajes supera 100 % debido a que la persona informante pudo haber marcado hasta tres opciones de 
+respuesta. 
+1/ 
+Cambio estadísticamente significativo con respecto al año anterior. 
+Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE), 2024 y 2025. 
+ 
+Percepción sobre inseguridad pública 2013–2025 
+ 
+Para el periodo de referencia entre marzo y abril de 2025, 75.6 % de la población de 18 años 
+y más consideró que vivir en su entidad federativa era inseguro a consecuencia de la 
+delincuencia (la cifra resultó estadísticamente superior a la de 2024). La percepción de 
+inseguridad en el ámbito municipal —o en la demarcación territorial— también presentó un 
+aumento estadísticamente significativo. Para la colonia o la localidad, no hubo cambio. De la 
+población de 18 años y más, 64.7 y 40.5 % dijo sentir inseguridad en su municipio o 
+demarcación territorial y en su colonia o localidad, respectivamente (ver gráfica 18). 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE BREAK ---
+
+ 
+REPORTE DE RESULTADOS 33/25 
+ 
+ENCUESTA NACIONAL 
+DE VICTIMIZACIÓN Y PERCEPCIÓN 
+SOBRE SEGURIDAD PÚBLICA (ENVIPE) 
+18 de septiembre de 2025 
+Página 21/31 
+ 
+Gráfica 18 
+Percepción sobre inseguridad 
+2013-2025 
+(porcentaje) 
+ 
+ 
+Notas: El nivel de percepción sobre seguridad pública representa el periodo marzo y abril de 2013 a 2019 y de 2021 a 2025. En 2020 se refiere 
+solo a marzo. 
+1/ 
+Cambio estadísticamente significativo con respecto al año anterior. 
+Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE), 2013 a 2025. 
+ 
+Percepción sobre inseguridad pública en la entidad federativa 
+ 
+Respecto a la situación que guarda la inseguridad pública en las entidades federativas, las que 
+obtuvieron los porcentajes más altos fueron Morelos, con 90.1 %; Tabasco, con 89.8 % y 
+Guanajuato, con 88.5 por ciento. Las que resultaron con los porcentajes más bajos fueron Baja 
+California Sur, con 37.4 %; Coahuila de Zaragoza, con 37.7 %, y Yucatán, con 39.6 %  
+(ver mapa 2). 
+ 
+ 
+ 
+
+
+--- PAGE BREAK ---
+
+ 
+REPORTE DE RESULTADOS 33/25 
+ 
+ENCUESTA NACIONAL 
+DE VICTIMIZACIÓN Y PERCEPCIÓN 
+SOBRE SEGURIDAD PÚBLICA (ENVIPE) 
+18 de septiembre de 2025 
+Página 22/31 
+ 
+Mapa 2 
+Percepción de inseguridad, según entidad federativa 
+2025 
+(porcentaje) 
+ 
+Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE), 2025. 
+ 
+Percepción sobre la seguridad al caminar en la noche 
+ 
+En 2025, 40.3 % de la población de 18 años y más se sintió segura4 al caminar sin compañía 
+por la noche en los alrededores de su vivienda. En las mujeres el porcentaje fue 32.3 y en los 
+hombres, 49.5 (ver gráfica 19 y mapa 3). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 Se refiere a muy seguro(a) o seguro(a). 
+
+
+--- PAGE BREAK ---
+
+ 
+REPORTE DE RESULTADOS 33/25 
+ 
+ENCUESTA NACIONAL 
+DE VICTIMIZACIÓN Y PERCEPCIÓN 
+SOBRE SEGURIDAD PÚBLICA (ENVIPE) 
+18 de septiembre de 2025 
+Página 23/31 
+ 
+Gráfica 19 
+Población que se siente segura al caminar sin compañía por la noche 
+ en los alrededores de su vivienda, según sexo 
+2024 y 2025 
+(porcentaje) 
+ 
+1/ 
+Cambio estadísticamente significativo con respecto al año anterior. 
+Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública 
+(ENVIPE), 2024 y 2025. 
+ 
+Mapa 3 
+Percepción de seguridad al caminar sin compañía por la noche 
+en los alrededores de su vivienda, según entidad federativa 
+2025 
+(porcentaje) 
+ 
+Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE), 2025. 
+
+
+--- PAGE BREAK ---
+
+ 
+REPORTE DE RESULTADOS 33/25 
+ 
+ENCUESTA NACIONAL 
+DE VICTIMIZACIÓN Y PERCEPCIÓN 
+SOBRE SEGURIDAD PÚBLICA (ENVIPE) 
+18 de septiembre de 2025 
+Página 24/31 
+ 
+Percepción sobre inseguridad pública en distintos lugares 
+ 
+En 2025, 73.5 % de la población de 18 años y más se sintió insegura en el cajero automático 
+ubicado en la vía pública (ver gráfica 20). 
+ 
+Gráfica 20 
+Población que manifiesta sentirse insegura en espacios públicos o privados 
+2024 y 2025 
+(porcentaje) 
+ 
+Notas: La persona informante pudo haber elegido más de una respuesta. 
+Se refiere al periodo marzo y abril de cada año. 
+1/ 
+Cambio estadísticamente significativo con respecto al año anterior. 
+Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE), 2024 y 2025. 
+ 
+ 
+En términos generales, las mujeres se sienten más inseguras que los hombres en espacios 
+públicos o privados (ver gráfica 21). 
+Gráfica 21 
+Población que manifiesta sentirse insegura en espacios públicos o privados, según sexo 
+2025 
+(porcentaje) 
+ 
+Nota: 
+La persona informante pudo haber elegido más de una respuesta. 
+Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE), 2025. 
+
+
+--- PAGE BREAK ---
+
+ 
+REPORTE DE RESULTADOS 33/25 
+ 
+ENCUESTA NACIONAL 
+DE VICTIMIZACIÓN Y PERCEPCIÓN 
+SOBRE SEGURIDAD PÚBLICA (ENVIPE) 
+18 de septiembre de 2025 
+Página 25/31 
+ 
+Atestiguación de conductas delictivas o antisociales 
+ 
+En 2025, 63.8 % de la población de 18 años y más identificó como primera conducta delictiva o 
+antisocial en los alrededores de su vivienda el consumo de alcohol en la calle. Siguió consumo 
+de droga, con 52.1 % (ver gráficas 22 y 23). 
+ 
+Gráfica 22 
+Conocimiento de la ocurrencia de conductas delictivas o antisociales 
+2024 y 2025 
+(porcentaje) 
+ 
+ 
+Nota: 
+La persona informante pudo haber elegido más de una respuesta. 
+1/ 
+Cambio estadísticamente significativo con respecto al año anterior. 
+Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE), 2024 y 2025. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE BREAK ---
+
+ 
+REPORTE DE RESULTADOS 33/25 
+ 
+ENCUESTA NACIONAL 
+DE VICTIMIZACIÓN Y PERCEPCIÓN 
+SOBRE SEGURIDAD PÚBLICA (ENVIPE) 
+18 de septiembre de 2025 
+Página 26/31 
+ 
+Gráfica 23 
+Personas que fueron testigo de consumo y venta de droga 
+2013-2025 
+(porcentaje) 
+ 
+Notas: La persona informante pudo haber elegido más de una respuesta. 
+1/ 
+Cambio estadísticamente significativo con respecto al año anterior. 
+Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE), 2013 a 2025. 
+ 
+IX. CAMBIO DE HÁBITOS POR INSEGURIDAD 
+ 
+En 2024, las actividades cotidianas que la población de 18 años y más dejó de hacer fueron: 
+permitir que menores de edad que viven en el hogar salieran sin compañía y salir de noche, 
+con 62.6 y 46.4 %, respectivamente (ver gráfica 24). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE BREAK ---
+
+ 
+REPORTE DE RESULTADOS 33/25 
+ 
+ENCUESTA NACIONAL 
+DE VICTIMIZACIÓN Y PERCEPCIÓN 
+SOBRE SEGURIDAD PÚBLICA (ENVIPE) 
+18 de septiembre de 2025 
+Página 27/31 
+ 
+Gráfica 24 
+Población que manifestó haber dejado de realizar alguna actividad  
+por miedo a ser víctima de algún delito 
+2023 y 2024 
+(porcentaje) 
+ 
+Nota: 
+La persona informante pudo haber dado más de una respuesta. 
+1/ 
+Cambio estadísticamente significativo con respecto al año anterior. 
+Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE), 2024 y 2025. 
+ 
+X. DESEMPEÑO INSTITUCIONAL 
+ 
+Identificación de autoridades 
+ 
+En cuanto a la identificación de autoridades a cargo de la seguridad pública, seguridad 
+nacional y procuración e impartición de justicia, 81.5 % de la población de 18 años y más 
+identificó al Ejército. Siguió la Guardia Nacional, con 78.3 % (ver gráfica 25). 
+ 
+En relación con 2024, para 2025, la identificación de las distintas autoridades aumentó para el 
+Ejército, la Guardia Nacional, policía de tránsito, policía estatal, policía preventiva municipal, 
+Fiscalía General de la Republica y Jueces, se mantuvo para el Ministerio Público (MP) y 
+fiscalías estatales y la policía ministerial, judicial o de investigación, mientras que disminuyó 
+de manera significativa para la Marina (ver gráfica 25). 
+ 
+Los hombres identificaron en mayor proporción que las mujeres a todas las autoridades de 
+seguridad pública, seguridad nacional, procuración e impartición de justicia (ver gráfica 26). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE BREAK ---
+
+ 
+REPORTE DE RESULTADOS 33/25 
+ 
+ENCUESTA NACIONAL 
+DE VICTIMIZACIÓN Y PERCEPCIÓN 
+SOBRE SEGURIDAD PÚBLICA (ENVIPE) 
+18 de septiembre de 2025 
+Página 28/31 
+ 
+Gráfica 25 
+Identificación de la sociedad en autoridades 
+2024 y 2025 
+(porcentaje) 
+ 
+Nota: 
+Se refiere al periodo marzo y abril de cada año. 
+1/ 
+Cambio estadísticamente significativo con respecto al año anterior. 
+ND: 
+No disponible. 
+Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE), 2024 y 2025. 
+ 
+Gráfica 26 
+Identificación de autoridades, según sexo 
+2025 
+(porcentaje) 
+ 
+Nota: 
+Se refiere al periodo marzo y abril de 2025. 
+Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE), 2025. 
+ 
+Percepción del desempeño 
+ 
+En cuanto al nivel de confianza en autoridades a cargo de la seguridad pública, seguridad 
+nacional y procuración e impartición de justicia, 91.0 % de la población de 18 años y más 
+identificó a la Marina como la autoridad que mayor confianza le inspira, con mucha o algo de 
+confianza. Siguió la Fuerza Aérea Mexicana, con 89.3 % (ver gráfica 27). 
+
+
+--- PAGE BREAK ---
+
+ 
+REPORTE DE RESULTADOS 33/25 
+ 
+ENCUESTA NACIONAL 
+DE VICTIMIZACIÓN Y PERCEPCIÓN 
+SOBRE SEGURIDAD PÚBLICA (ENVIPE) 
+18 de septiembre de 2025 
+Página 29/31 
+En relación con 2024, para 2025, la confianza de la sociedad en las distintas autoridades 
+aumentó para la Marina, mientras que para el Ejército y la Fiscalía General de la República se 
+mantuvo. Asimismo, disminuyó el nivel de confianza de manera significativa en las siete 
+restantes autoridades (ver gráfica 27). 
+ 
+Gráfica 27 
+Población que confía en autoridades, según tipo de autoridad 
+2024 y 2025 
+(porcentaje) 
+ 
+Notas: Se refiere al periodo marzo y abril de cada año. 
+ 
+Incluye las opciones de respuesta «mucha confianza» o «algo de confianza». 
+1/ 
+Cambio estadísticamente significativo con respecto al año anterior. 
+ND: 
+No disponible. 
+Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE), 2024 y 2025. 
+ 
+Al distinguir según sexo, los hombres dijeron confiar más en la Marina, la Fuerza  
+Aérea Mexicana, el Ejército, la Guardia Nacional y en la Fiscalía General de la República  
+(ver gráfica 28). Las mujeres confiaron más en la policía ministerial, la policía estatal, en las y 
+los jueces, en el Ministerio Público y las fiscalías estatales, en la policía preventiva municipal 
+y en la policía de tránsito. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE BREAK ---
+
+ 
+REPORTE DE RESULTADOS 33/25 
+ 
+ENCUESTA NACIONAL 
+DE VICTIMIZACIÓN Y PERCEPCIÓN 
+SOBRE SEGURIDAD PÚBLICA (ENVIPE) 
+18 de septiembre de 2025 
+Página 30/31 
+Gráfica 28 
+Población que confía en autoridades, según sexo 
+2025 
+(porcentaje) 
+ 
+Nota: 
+Se refiere al periodo marzo y abril de 2025. 
+Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE), 2025. 
+ 
+De la población de 18 años y más que, entre marzo y abril de 2025, identificó a la policía de 
+tránsito, 75.1 % consideró que dicha autoridad es corrupta. Del mismo modo, de la población 
+que identificó a jueces, 69.0 % los consideró corruptos. En 2025, la Marina y el Ejército no 
+registraron un cambio estadísticamente significativo; en el resto, la percepción sobre 
+corrupción en autoridades encargadas de la seguridad pública tuvo 
+aumentos 
+estadísticamente significativos respecto de 2024 (ver gráfica 29). 
+ 
+Gráfica 29 
+Población que percibe corrupción en las autoridades 
+2024 y 2025 
+(porcentaje) 
+ 
+Nota: 
+Se refiere al periodo marzo y abril de cada año. 
+1/ 
+Cambio estadísticamente significativo con respecto al año anterior. 
+ND: 
+No disponible. 
+Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE), 2024 y 2025. 
+
+
+--- PAGE BREAK ---
+
+ 
+REPORTE DE RESULTADOS 33/25 
+ 
+ENCUESTA NACIONAL 
+DE VICTIMIZACIÓN Y PERCEPCIÓN 
+SOBRE SEGURIDAD PÚBLICA (ENVIPE) 
+18 de septiembre de 2025 
+Página 31/31 
+ 
+En comparación con las mujeres, los hombres perciben ligeramente menor corrupción en todas 
+las autoridades (ver gráfica 30). 
+ 
+Gráfica 30 
+Población que percibe corrupción en las autoridades, según sexo 
+2025 
+(porcentaje) 
+ 
+ 
+Nota: 
+Se refiere al periodo marzo y abril de 2025. 
+Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE), 2025. 
+ 
+La base de datos y los resultados de la ENVIPE 2025, se pueden consultar en la siguiente liga:  
+https://www.inegi.org.mx/programas/envipe/2025/ 
+ 
+ 
+La información estadística y geográfica que genera el INEGI es un bien público y nos permite 
+a todas y a todos tomar mejores decisiones. ¡Conócela, úsala y compártela! 
+ 
+ 
+ 
+ 
+ 
