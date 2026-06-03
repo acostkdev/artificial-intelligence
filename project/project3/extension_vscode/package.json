@@ -1,0 +1,40 @@
+{
+    "name": "autocompletado-rnn-c",
+    "displayName": "Autocompletado RNN C",
+    "description": "Autocompletado de codigo C usando una RNN vanilla local",
+    "version": "1.0.0",
+    "publisher": "acosta",
+    "engines": {
+        "vscode": "^1.85.0"
+    },
+    "categories": [
+        "Other"
+    ],
+    "activationEvents": [
+        "onLanguage:c"
+    ],
+    "main": "./extension.js",
+    "contributes": {
+        "commands": [
+            {
+                "command": "autocompletado-rnn-c.autocompletar",
+                "title": "Autocompletar con RNN"
+            }
+        ],
+        "keybindings": [
+            {
+                "command": "autocompletado-rnn-c.autocompletar",
+                "key": "ctrl+shift+l",
+                "when": "editorLangId == c"
+            }
+        ],
+        "menus": {
+            "editor/context": [
+                {
+                    "command": "autocompletado-rnn-c.autocompletar",
+                    "group": "1_modification"
+                }
+            ]
+        }
+    }
+}

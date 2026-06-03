@@ -1,0 +1,1081 @@
+// sumar_dos_enteros: recibe dos valores enteros y entrega la suma
+int sumar_dos_enteros(int a, int b) {
+    int resultado = a + b;
+    return resultado;
+}
+
+// restar_dos_enteros: resta el segundo numero del primero
+int restar_dos_enteros(int a, int b) {
+    int resultado = a - b;
+    return resultado;
+}
+
+// multiplicar_dos_enteros: multiplica dos numeros y devuelve el producto
+int multiplicar_dos_enteros(int a, int b) {
+    int resultado = a * b;
+    return resultado;
+}
+
+// dividir_dos_enteros: divide a entre b, devuelve 0 si b es cero
+int dividir_dos_enteros(int a, int b) {
+    if (b == 0) {
+        return 0;
+    }
+    int resultado = a / b;
+    return resultado;
+}
+
+// calcular_area_circulo: calcula el area usando radio al cuadrado por pi
+float calcular_area_circulo(float radio) {
+    float resultado = 3.1416f * radio * radio;
+    return resultado;
+}
+
+// calcular_area_rectangulo: multiplica la base por la altura
+int calcular_area_rectangulo(int base, int altura) {
+    int resultado = base * altura;
+    return resultado;
+}
+
+// calcular_perimetro_cuadrado: multiplica el lado por cuatro
+int calcular_perimetro_cuadrado(int lado) {
+    int resultado = 4 * lado;
+    return resultado;
+}
+
+// calcular_volumen_esfera: calcula el volumen usando la formula de la esfera
+float calcular_volumen_esfera(float radio) {
+    float resultado = (4.0f / 3.0f) * 3.1416f * radio * radio * radio;
+    return resultado;
+}
+
+// calcular_promedio_tres: saca el promedio de tres numeros flotantes
+float calcular_promedio_tres(float a, float b, float c) {
+    float resultado = (a + b + c) / 3.0f;
+    return resultado;
+}
+
+// calcular_porcentaje: calcula el porcentaje de un total
+float calcular_porcentaje(float cantidad, float total) {
+    if (total == 0.0f) {
+        return 0.0f;
+    }
+    float resultado = (cantidad / total) * 100.0f;
+    return resultado;
+}
+
+// calcular_factorial: calcula el factorial de n usando recursion
+int calcular_factorial(int n) {
+    if (n <= 1) {
+        return 1;
+    }
+    int resultado = n * calcular_factorial(n - 1);
+    return resultado;
+}
+
+// calcular_potencia: eleva la base al exponente usando un ciclo
+int calcular_potencia(int base, int exponente) {
+    int resultado = 1;
+    for (int i = 0; i < exponente; i++) {
+        resultado = resultado * base;
+    }
+    return resultado;
+}
+
+// es_numero_primo: verifica si un numero es primo con divisibilidad
+int es_numero_primo(int n) {
+    if (n <= 1) {
+        return 0;
+    }
+    for (int i = 2; i * i <= n; i++) {
+        if (n % i == 0) {
+            return 0;
+        }
+    }
+    return 1;
+}
+
+// generar_fibonacci: llena un arreglo con la serie de fibonacci hasta n
+void generar_fibonacci(int n, int arreglo[]) {
+    if (n <= 0) {
+        return;
+    }
+    arreglo[0] = 0;
+    if (n > 1) {
+        arreglo[1] = 1;
+        for (int i = 2; i < n; i++) {
+            arreglo[i] = arreglo[i - 1] + arreglo[i - 2];
+        }
+    }
+}
+
+// calcular_mcd: calcula el maximo comun divisor con el algoritmo de Euclides
+int calcular_mcd(int a, int b) {
+    while (b != 0) {
+        int temporal = b;
+        b = a % b;
+        a = temporal;
+    }
+    return a;
+}
+
+// calcular_mcm: calcula el minimo comun multiplo usando el mcd
+int calcular_mcm(int a, int b) {
+    if (a == 0 || b == 0) {
+        return 0;
+    }
+    int resultado = (a / calcular_mcd(a, b)) * b;
+    return resultado;
+}
+
+// es_numero_par: devuelve 1 si el numero es par, 0 si es impar
+int es_numero_par(int n) {
+    int resultado = (n % 2 == 0) ? 1 : 0;
+    return resultado;
+}
+
+// es_numero_perfecto: verifica si un numero es igual a la suma de sus divisores
+int es_numero_perfecto(int n) {
+    if (n <= 1) {
+        return 0;
+    }
+    int suma = 0;
+    for (int i = 1; i <= n / 2; i++) {
+        if (n % i == 0) {
+            suma = suma + i;
+        }
+    }
+    if (suma == n) {
+        return 1;
+    }
+    return 0;
+}
+
+// longitud_cadena: cuenta los caracteres de una cadena hasta el caracter nulo
+int longitud_cadena(char cadena[]) {
+    int contador = 0;
+    while (cadena[contador] != '\0') {
+        contador++;
+    }
+    return contador;
+}
+
+// copiar_cadena: copia el contenido de origen en destino caracter por caracter
+void copiar_cadena(char destino[], char origen[]) {
+    int i = 0;
+    while (origen[i] != '\0') {
+        destino[i] = origen[i];
+        i++;
+    }
+    destino[i] = '\0';
+}
+
+// concatenar_cadenas: pega la cadena fuente al final de la cadena destino
+void concatenar_cadenas(char destino[], char fuente[]) {
+    int i = 0;
+    int j = 0;
+    while (destino[i] != '\0') {
+        i++;
+    }
+    while (fuente[j] != '\0') {
+        destino[i] = fuente[j];
+        i++;
+        j++;
+    }
+    destino[i] = '\0';
+}
+
+// invertir_cadena: voltea el orden de los caracteres de una cadena
+void invertir_cadeAna(char cadena[]) {
+    int largo = longitud_cadena(cadena);
+    for (int i = 0; i < largo / 2; i++) {
+        char temporal = cadena[i];
+        cadena[i] = cadena[largo - 1 - i];
+        cadena[largo - 1 - i] = temporal;
+    }
+}
+
+// buscar_caracter: busca un caracter en una cadena y devuelve su posicion
+int buscar_caracter(char cadena[], char caracter) {
+    for (int i = 0; cadena[i] != '\0'; i++) {
+        if (cadena[i] == caracter) {
+            return i;
+        }
+    }
+    return -1;
+}
+
+// contar_vocales: cuenta cuantas vocales tiene una cadena
+int contar_vocales(char cadena[]) {
+    int contador = 0;
+    for (int i = 0; cadena[i] != '\0'; i++) {
+        char c = cadena[i];
+        if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u') {
+            contador++;
+        } else if (c == 'A' || c == 'E' || c == 'I' || c == 'O' || c == 'U') {
+            contador++;
+        }
+    }
+    return contador;
+}
+
+// convertir_mayusculas: convierte toda la cadena a mayusculas
+void convertir_mayusculas(char cadena[]) {
+    for (int i = 0; cadena[i] != '\0'; i++) {
+        if (cadena[i] >= 'a' && cadena[i] <= 'z') {
+            cadena[i] = cadena[i] - 32;
+        }
+    }
+}
+
+// convertir_minusculas: convierte toda la cadena a minusculas
+void convertir_minusculas(char cadena[]) {
+    for (int i = 0; cadena[i] != '\0'; i++) {
+        if (cadena[i] >= 'A' && cadena[i] <= 'Z') {
+            cadena[i] = cadena[i] + 32;
+        }
+    }
+}
+
+// eliminar_espacios: quita los espacios de una cadena y compacta
+void eliminar_espacios(char cadena[]) {
+    int indice = 0;
+    for (int i = 0; cadena[i] != '\0'; i++) {
+        if (cadena[i] != ' ') {
+            cadena[indice] = cadena[i];
+            indice++;
+        }
+    }
+    cadena[indice] = '\0';
+}
+
+// comparar_cadenas: compara dos cadenas, devuelve 0 si son iguales
+int comparar_cadenas(char cadena1[], char cadena2[]) {
+    int i = 0;
+    while (cadena1[i] != '\0' && cadena2[i] != '\0') {
+        if (cadena1[i] != cadena2[i]) {
+            return cadena1[i] - cadena2[i];
+        }
+        i++;
+    }
+    return cadena1[i] - cadena2[i];
+}
+
+// buscar_maximo_arreglo: encuentra el valor mas grande en un arreglo de enteros
+int buscar_maximo_arreglo(int arreglo[], int tamanio) {
+    int maximo = arreglo[0];
+    for (int i = 1; i < tamanio; i++) {
+        if (arreglo[i] > maximo) {
+            maximo = arreglo[i];
+        }
+    }
+    return maximo;
+}
+
+// buscar_minimo_arreglo: encuentra el valor mas chico en un arreglo de enteros
+int buscar_minimo_arreglo(int arreglo[], int tamanio) {
+    int minimo = arreglo[0];
+    for (int i = 1; i < tamanio; i++) {
+        if (arreglo[i] < minimo) {
+            minimo = arreglo[i];
+        }
+    }
+    return minimo;
+}
+
+// sumar_elementos: suma todos los elementos de un arreglo de enteros
+int sumar_elementos(int arreglo[], int tamanio) {
+    int suma = 0;
+    for (int i = 0; i < tamanio; i++) {
+        suma = suma + arreglo[i];
+    }
+    return suma;
+}
+
+// promedio_arreglo: calcula el promedio de los elementos de un arreglo
+float promedio_arreglo(int arreglo[], int tamanio) {
+    if (tamanio == 0) {
+        return 0.0f;
+    }
+    int suma = sumar_elementos(arreglo, tamanio);
+    float resultado = (float)suma / (float)tamanio;
+    return resultado;
+}
+
+// contar_ocurrencias: cuenta cuantas veces aparece un valor en el arreglo
+int contar_ocurrencias(int arreglo[], int tamanio, int valor) {
+    int contador = 0;
+    for (int i = 0; i < tamanio; i++) {
+        if (arreglo[i] == valor) {
+            contador++;
+        }
+    }
+    return contador;
+}
+
+// invertir_arreglo: invierte el orden de los elementos de un arreglo
+void invertir_arreglo(int arreglo[], int tamanio) {
+    for (int i = 0; i < tamanio / 2; i++) {
+        int temporal = arreglo[i];
+        arreglo[i] = arreglo[tamanio - 1 - i];
+        arreglo[tamanio - 1 - i] = temporal;
+    }
+}
+
+// ordenar_burbuja: ordena un arreglo usando el metodo de burbuja
+void ordenar_burbuja(int arreglo[], int tamanio) {
+    for (int i = 0; i < tamanio - 1; i++) {
+        for (int j = 0; j < tamanio - 1 - i; j++) {
+            if (arreglo[j] > arreglo[j + 1]) {
+                int temporal = arreglo[j];
+                arreglo[j] = arreglo[j + 1];
+                arreglo[j + 1] = temporal;
+            }
+        }
+    }
+}
+
+// ordenar_seleccion: ordena un arreglo usando el metodo de seleccion
+void ordenar_seleccion(int arreglo[], int tamanio) {
+    for (int i = 0; i < tamanio - 1; i++) {
+        int indice_minimo = i;
+        for (int j = i + 1; j < tamanio; j++) {
+            if (arreglo[j] < arreglo[indice_minimo]) {
+                indice_minimo = j;
+            }
+        }
+        if (indice_minimo != i) {
+            int temporal = arreglo[i];
+            arreglo[i] = arreglo[indice_minimo];
+            arreglo[indice_minimo] = temporal;
+        }
+    }
+}
+
+// ordenar_insercion: ordena un arreglo usando el metodo de insercion
+void ordenar_insercion(int arreglo[], int tamanio) {
+    for (int i = 1; i < tamanio; i++) {
+        int clave = arreglo[i];
+        int j = i - 1;
+        while (j >= 0 && arreglo[j] > clave) {
+            arreglo[j + 1] = arreglo[j];
+            j--;
+        }
+        arreglo[j + 1] = clave;
+    }
+}
+
+// ordenar_quick_sort: ordena un arreglo usando quick sort con particion
+void ordenar_quick_sort(int arreglo[], int izquierda, int derecha) {
+    if (izquierda >= derecha) {
+        return;
+    }
+    int pivote = arreglo[derecha];
+    int particion = izquierda;
+    for (int i = izquierda; i < derecha; i++) {
+        if (arreglo[i] < pivote) {
+            int temporal = arreglo[particion];
+            arreglo[particion] = arreglo[i];
+            arreglo[i] = temporal;
+            particion++;
+        }
+    }
+    int temporal = arreglo[particion];
+    arreglo[particion] = arreglo[derecha];
+    arreglo[derecha] = temporal;
+    ordenar_quick_sort(arreglo, izquierda, particion - 1);
+    ordenar_quick_sort(arreglo, particion + 1, derecha);
+}
+
+// ordenar_merge_sort: ordena un arreglo usando merge sort recursivo
+void ordenar_merge_sort(int arreglo[], int temporal[], int izquierda, int derecha) {
+    if (izquierda >= derecha) {
+        return;
+    }
+    int medio = (izquierda + derecha) / 2;
+    ordenar_merge_sort(arreglo, temporal, izquierda, medio);
+    ordenar_merge_sort(arreglo, temporal, medio + 1, derecha);
+    int i = izquierda;
+    int j = medio + 1;
+    int k = izquierda;
+    while (i <= medio && j <= derecha) {
+        if (arreglo[i] <= arreglo[j]) {
+            temporal[k] = arreglo[i];
+            i++;
+        } else {
+            temporal[k] = arreglo[j];
+            j++;
+        }
+        k++;
+    }
+    while (i <= medio) {
+        temporal[k] = arreglo[i];
+        i++;
+        k++;
+    }
+    while (j <= derecha) {
+        temporal[k] = arreglo[j];
+        j++;
+        k++;
+    }
+    for (int indice = izquierda; indice <= derecha; indice++) {
+        arreglo[indice] = temporal[indice];
+    }
+}
+
+// sumar_matrices: suma dos matrices y guarda el resultado en otra
+void sumar_matrices(int filas, int columnas, int a[filas][columnas], int b[filas][columnas], int resultado[filas][columnas]) {
+    for (int i = 0; i < filas; i++) {
+        for (int j = 0; j < columnas; j++) {
+            resultado[i][j] = a[i][j] + b[i][j];
+        }
+    }
+}
+
+// multiplicar_matrices: multiplica dos matrices cuadradas
+void multiplicar_matrices(int n, int a[n][n], int b[n][n], int resultado[n][n]) {
+    for (int i = 0; i < n; i++) {
+        for (int j = 0; j < n; j++) {
+            resultado[i][j] = 0;
+            for (int k = 0; k < n; k++) {
+                resultado[i][j] = resultado[i][j] + a[i][k] * b[k][j];
+            }
+        }
+    }
+}
+
+// imprimir_matriz: imprime una matriz en consola con formato de filas
+void imprimir_matriz(int filas, int columnas, int matriz[filas][columnas]) {
+    for (int i = 0; i < filas; i++) {
+        for (int j = 0; j < columnas; j++) {
+            printf("%d ", matriz[i][j]);
+        }
+        printf("\n");
+    }
+}
+
+// transponer_matriz: calcula la transpuesta de una matriz
+void transponer_matriz(int filas, int columnas, int original[filas][columnas], int transpuesta[columnas][filas]) {
+    for (int i = 0; i < filas; i++) {
+        for (int j = 0; j < columnas; j++) {
+            transpuesta[j][i] = original[i][j];
+        }
+    }
+}
+
+// crear_punto: inicializa una estructura punto con coordenadas x y y
+struct Punto {
+    float x;
+    float y;
+};
+
+struct Punto crear_punto(float x, float y) {
+    struct Punto resultado;
+    resultado.x = x;
+    resultado.y = y;
+    return resultado;
+}
+
+// calcular_distancia_puntos: calcula la distancia entre dos puntos en el plano
+float calcular_distancia_puntos(struct Punto a, struct Punto b) {
+    float dx = a.x - b.x;
+    float dy = a.y - b.y;
+    float resultado = dx * dx + dy * dy;
+    return sqrt(resultado);
+}
+
+// crear_rectangulo: inicializa una estructura rectangulo con posicion y tamano
+struct Rectangulo {
+    int x;
+    int y;
+    int ancho;
+    int alto;
+};
+
+struct Rectangulo crear_rectangulo(int x, int y, int ancho, int alto) {
+    struct Rectangulo resultado;
+    resultado.x = x;
+    resultado.y = y;
+    resultado.ancho = ancho;
+    resultado.alto = alto;
+    return resultado;
+}
+
+// calcular_area_rectangulo_struct: calcula el area de un rectangulo con estructura
+int calcular_area_rectangulo_struct(struct Rectangulo r) {
+    int resultado = r.ancho * r.alto;
+    return resultado;
+}
+
+// crear_estudiante: inicializa una estructura estudiante con nombre y calificacion
+struct Estudiante {
+    char nombre[50];
+    int edad;
+    float calificacion;
+};
+
+struct Estudiante crear_estudiante(char nombre[], int edad, float calificacion) {
+    struct Estudiante resultado;
+    copiar_cadena(resultado.nombre, nombre);
+    resultado.edad = edad;
+    resultado.calificacion = calificacion;
+    return resultado;
+}
+
+// imprimir_estudiante: muestra los datos de un estudiante en consola
+void imprimir_estudiante(struct Estudiante e) {
+    printf("Nombre: %s\n", e.nombre);
+    printf("Edad: %d\n", e.edad);
+    printf("Calificacion: %.2f\n", e.calificacion);
+}
+
+// reservar_arreglo: reserva memoria para un arreglo de enteros con malloc
+int* reservar_arreglo(int tamanio) {
+    int* resultado = (int*)malloc(tamanio * sizeof(int));
+    return resultado;
+}
+
+// liberar_arreglo: libera la memoria reservada para un arreglo
+void liberar_arreglo(int* arreglo) {
+    free(arreglo);
+}
+
+// copiar_arreglo_dinamico: copia un arreglo dinamico a otro nuevo
+int* copiar_arreglo_dinamico(int* origen, int tamanio) {
+    int* resultado = reservar_arreglo(tamanio);
+    if (resultado == NULL) {
+        return NULL;
+    }
+    for (int i = 0; i < tamanio; i++) {
+        resultado[i] = origen[i];
+    }
+    return resultado;
+}
+
+// redimensionar_arreglo: cambia el tamano de un arreglo dinamico con realloc
+int* redimensionar_arreglo(int* arreglo, int nuevo_tamanio) {
+    int* resultado = (int*)realloc(arreglo, nuevo_tamanio * sizeof(int));
+    return resultado;
+}
+
+// crear_matriz_dinamica: reserva memoria para una matriz de enteros
+int** crear_matriz_dinamica(int filas, int columnas) {
+    int** resultado = (int**)malloc(filas * sizeof(int*));
+    if (resultado == NULL) {
+        return NULL;
+    }
+    for (int i = 0; i < filas; i++) {
+        resultado[i] = (int*)malloc(columnas * sizeof(int));
+    }
+    return resultado;
+}
+
+// crear_nodo: crea un nodo para lista enlazada con un valor dado
+struct Nodo {
+    int valor;
+    struct Nodo* siguiente;
+};
+
+struct Nodo* crear_nodo(int valor) {
+    struct Nodo* resultado = (struct Nodo*)malloc(sizeof(struct Nodo));
+    resultado->valor = valor;
+    resultado->siguiente = NULL;
+    return resultado;
+}
+
+// insertar_inicio_lista: inserta un nodo al inicio de la lista enlazada
+void insertar_inicio_lista(struct Nodo** cabeza, int valor) {
+    struct Nodo* nuevo = crear_nodo(valor);
+    nuevo->siguiente = *cabeza;
+    *cabeza = nuevo;
+}
+
+// insertar_final_lista: inserta un nodo al final de la lista enlazada
+void insertar_final_lista(struct Nodo** cabeza, int valor) {
+    struct Nodo* nuevo = crear_nodo(valor);
+    if (*cabeza == NULL) {
+        *cabeza = nuevo;
+        return;
+    }
+    struct Nodo* actual = *cabeza;
+    while (actual->siguiente != NULL) {
+        actual = actual->siguiente;
+    }
+    actual->siguiente = nuevo;
+}
+
+// eliminar_nodo_lista: elimina un nodo con el valor indicado de la lista
+void eliminar_nodo_lista(struct Nodo** cabeza, int valor) {
+    if (*cabeza == NULL) {
+        return;
+    }
+    struct Nodo* actual = *cabeza;
+    if (actual->valor == valor) {
+        *cabeza = actual->siguiente;
+        free(actual);
+        return;
+    }
+    while (actual->siguiente != NULL) {
+        if (actual->siguiente->valor == valor) {
+            struct Nodo* temporal = actual->siguiente;
+            actual->siguiente = temporal->siguiente;
+            free(temporal);
+            return;
+        }
+        actual = actual->siguiente;
+    }
+}
+
+// buscar_nodo_lista: busca un valor en la lista, devuelve 1 si existe
+int buscar_nodo_lista(struct Nodo* cabeza, int valor) {
+    struct Nodo* actual = cabeza;
+    while (actual != NULL) {
+        if (actual->valor == valor) {
+            return 1;
+        }
+        actual = actual->siguiente;
+    }
+    return 0;
+}
+
+// imprimir_lista: recorre la lista enlazada e imprime cada valor
+void imprimir_lista(struct Nodo* cabeza) {
+    struct Nodo* actual = cabeza;
+    while (actual != NULL) {
+        printf("%d -> ", actual->valor);
+        actual = actual->siguiente;
+    }
+    printf("NULL\n");
+}
+
+// crear_nodo_arbol: crea un nodo para arbol binario con un valor
+struct NodoArbol {
+    int valor;
+    struct NodoArbol* izquierdo;
+    struct NodoArbol* derecho;
+};
+
+struct NodoArbol* crear_nodo_arbol(int valor) {
+    struct NodoArbol* resultado = (struct NodoArbol*)malloc(sizeof(struct NodoArbol));
+    resultado->valor = valor;
+    resultado->izquierdo = NULL;
+    resultado->derecho = NULL;
+    return resultado;
+}
+
+// insertar_arbol: inserta un valor en el arbol binario de busqueda
+struct NodoArbol* insertar_arbol(struct NodoArbol* raiz, int valor) {
+    if (raiz == NULL) {
+        return crear_nodo_arbol(valor);
+    }
+    if (valor < raiz->valor) {
+        raiz->izquierdo = insertar_arbol(raiz->izquierdo, valor);
+    } else if (valor > raiz->valor) {
+        raiz->derecho = insertar_arbol(raiz->derecho, valor);
+    }
+    return raiz;
+}
+
+// buscar_arbol: busca un valor en el arbol, devuelve 1 si existe
+int buscar_arbol(struct NodoArbol* raiz, int valor) {
+    if (raiz == NULL) {
+        return 0;
+    }
+    if (raiz->valor == valor) {
+        return 1;
+    }
+    if (valor < raiz->valor) {
+        return buscar_arbol(raiz->izquierdo, valor);
+    }
+    return buscar_arbol(raiz->derecho, valor);
+}
+
+// recorrer_inorden: imprime el arbol en orden izquierdo-raiz-derecho
+void recorrer_inorden(struct NodoArbol* raiz) {
+    if (raiz == NULL) {
+        return;
+    }
+    recorrer_inorden(raiz->izquierdo);
+    printf("%d ", raiz->valor);
+    recorrer_inorden(raiz->derecho);
+}
+
+// altura_arbol: calcula la altura de un arbol binario recursivamente
+int altura_arbol(struct NodoArbol* raiz) {
+    if (raiz == NULL) {
+        return 0;
+    }
+    int altura_izquierda = altura_arbol(raiz->izquierdo);
+    int altura_derecha = altura_arbol(raiz->derecho);
+    if (altura_izquierda > altura_derecha) {
+        return altura_izquierda + 1;
+    }
+    return altura_derecha + 1;
+}
+
+// validar_email: verifica si una cadena tiene formato de email basico
+int validar_email(char correo[]) {
+    int arroba = -1;
+    int punto = -1;
+    int largo = longitud_cadena(correo);
+    for (int i = 0; i < largo; i++) {
+        if (correo[i] == '@') {
+            arroba = i;
+        }
+        if (correo[i] == '.') {
+            punto = i;
+        }
+    }
+    if (arroba > 0 && punto > arroba + 1 && punto < largo - 1) {
+        return 1;
+    }
+    return 0;
+}
+
+// es_palindromo: verifica si una cadena se lee igual al reves
+int es_palindromo(char cadena[]) {
+    int izquierda = 0;
+    int derecha = longitud_cadena(cadena) - 1;
+    while (izquierda < derecha) {
+        if (cadena[izquierda] != cadena[derecha]) {
+            return 0;
+        }
+        izquierda++;
+        derecha--;
+    }
+    return 1;
+}
+
+// decimal_a_binario: convierte un entero a su representacion binaria en cadena
+void decimal_a_binario(int n, char binario[]) {
+    int indice = 0;
+    if (n == 0) {
+        binario[0] = '0';
+        binario[1] = '\0';
+        return;
+    }
+    while (n > 0) {
+        binario[indice] = (n % 2) + '0';
+        n = n / 2;
+        indice++;
+    }
+    binario[indice] = '\0';
+    invertir_cadena(binario);
+}
+
+// contar_digitos: cuenta la cantidad de digitos de un numero entero
+int contar_digitos(int n) {
+    if (n == 0) {
+        return 1;
+    }
+    if (n < 0) {
+        n = -n;
+    }
+    int contador = 0;
+    while (n > 0) {
+        n = n / 10;
+        contador++;
+    }
+    return contador;
+}
+
+// invertir_numero: invierte los digitos de un numero entero
+int invertir_numero(int n) {
+    int invertido = 0;
+    while (n != 0) {
+        int digito = n % 10;
+        invertido = invertido * 10 + digito;
+        n = n / 10;
+    }
+    return invertido;
+}
+
+// intercambiar_valores: intercambia el valor de dos variables con punteros
+void intercambiar_valores(int* a, int* b) {
+    int temporal = *a;
+    *a = *b;
+    *b = temporal;
+}
+
+// ordenar_tres_numeros: ordena tres numeros de menor a mayor usando punteros
+void ordenar_tres_numeros(int* a, int* b, int* c) {
+    if (*a > *b) {
+        intercambiar_valores(a, b);
+    }
+    if (*a > *c) {
+        intercambiar_valores(a, c);
+    }
+    if (*b > *c) {
+        intercambiar_valores(b, c);
+    }
+}
+
+// encontrar_mediana: encuentra la mediana de tres numeros
+int encontrar_mediana(int a, int b, int c) {
+    if ((a > b && a < c) || (a > c && a < b)) {
+        return a;
+    }
+    if ((b > a && b < c) || (b > c && b < a)) {
+        return b;
+    }
+    return c;
+}
+
+// calcular_hipotenusa: calcula la hipotenusa usando el teorema de pitagoras
+float calcular_hipotenusa(float a, float b) {
+    float suma_cuadrados = a * a + b * b;
+    float resultado = sqrt(suma_cuadrados);
+    return resultado;
+}
+
+// convertir_celsius_fahrenheit: convierte grados celsius a fahrenheit
+float convertir_celsius_fahrenheit(float celsius) {
+    float resultado = celsius * 9.0f / 5.0f + 32.0f;
+    return resultado;
+}
+
+// convertir_fahrenheit_celsius: convierte grados fahrenheit a celsius
+float convertir_fahrenheit_celsius(float fahrenheit) {
+    float resultado = (fahrenheit - 32.0f) * 5.0f / 9.0f;
+    return resultado;
+}
+
+// calcular_indice_corporal: calcula el indice de masa corporal
+float calcular_indice_corporal(float peso, float altura) {
+    if (altura <= 0.0f) {
+        return 0.0f;
+    }
+    float resultado = peso / (altura * altura);
+    return resultado;
+}
+
+// sumar_digitos: suma todos los digitos de un numero entero
+int sumar_digitos(int n) {
+    if (n < 0) {
+        n = -n;
+    }
+    int suma = 0;
+    while (n > 0) {
+        suma = suma + (n % 10);
+        n = n / 10;
+    }
+    return suma;
+}
+
+// contar_consonantes: cuenta las consonantes de una cadena
+int contar_consonantes(char cadena[]) {
+    int contador = 0;
+    for (int i = 0; cadena[i] != '\0'; i++) {
+        char c = cadena[i];
+        if (c >= 'a' && c <= 'z' && c != 'a' && c != 'e' && c != 'i' && c != 'o' && c != 'u') {
+            contador++;
+        } else if (c >= 'A' && c <= 'Z' && c != 'A' && c != 'E' && c != 'I' && c != 'O' && c != 'U') {
+            contador++;
+        }
+    }
+    return contador;
+}
+
+// reemplazar_letra: reemplaza una letra por otra en una cadena
+void reemplazar_letra(char cadena[], char original, char reemplazo) {
+    for (int i = 0; cadena[i] != '\0'; i++) {
+        if (cadena[i] == original) {
+            cadena[i] = reemplazo;
+        }
+    }
+}
+
+// extraer_subcadena: copia parte de una cadena desde inicio hasta fin
+void extraer_subcadena(char origen[], char destino[], int inicio, int fin) {
+    int indice = 0;
+    for (int i = inicio; i <= fin && origen[i] != '\0'; i++) {
+        destino[indice] = origen[i];
+        indice++;
+    }
+    destino[indice] = '\0';
+}
+
+// contar_palabras: cuenta cuantas palabras tiene una cadena separadas por espacio
+int contar_palabras(char cadena[]) {
+    int contador = 0;
+    int en_palabra = 0;
+    for (int i = 0; cadena[i] != '\0'; i++) {
+        if (cadena[i] != ' ' && en_palabra == 0) {
+            en_palabra = 1;
+            contador++;
+        } else if (cadena[i] == ' ') {
+            en_palabra = 0;
+        }
+    }
+    return contador;
+}
+
+// producto_arreglo: multiplica todos los elementos de un arreglo de enteros
+int producto_arreglo(int arreglo[], int tamanio) {
+    if (tamanio <= 0) {
+        return 0;
+    }
+    int producto = 1;
+    for (int i = 0; i < tamanio; i++) {
+        producto = producto * arreglo[i];
+    }
+    return producto;
+}
+
+// sumar_matriz_completa: suma todos los elementos de una matriz de enteros
+int sumar_matriz_completa(int filas, int columnas, int matriz[filas][columnas]) {
+    int suma = 0;
+    for (int i = 0; i < filas; i++) {
+        for (int j = 0; j < columnas; j++) {
+            suma = suma + matriz[i][j];
+        }
+    }
+    return suma;
+}
+
+// multiplicar_matriz_escalar: multiplica cada elemento de una matriz por un escalar
+void multiplicar_matriz_escalar(int filas, int columnas, int matriz[filas][columnas], int escalar) {
+    for (int i = 0; i < filas; i++) {
+        for (int j = 0; j < columnas; j++) {
+            matriz[i][j] = matriz[i][j] * escalar;
+        }
+    }
+}
+
+// calcular_promedio_ponderado: calcula el promedio ponderado con pesos
+float calcular_promedio_ponderado(int valores[], int pesos[], int tamanio) {
+    int suma_pesos = 0;
+    int suma_ponderada = 0;
+    for (int i = 0; i < tamanio; i++) {
+        suma_ponderada = suma_ponderada + valores[i] * pesos[i];
+        suma_pesos = suma_pesos + pesos[i];
+    }
+    if (suma_pesos == 0) {
+        return 0.0f;
+    }
+    float resultado = (float)suma_ponderada / (float)suma_pesos;
+    return resultado;
+}
+
+// contar_positivos_arreglo: cuenta cuantos numeros positivos hay en un arreglo
+int contar_positivos_arreglo(int arreglo[], int tamanio) {
+    int contador = 0;
+    for (int i = 0; i < tamanio; i++) {
+        if (arreglo[i] > 0) {
+            contador++;
+        }
+    }
+    return contador;
+}
+
+// es_bisiesto: verifica si un año es bisiesto segun la regla gregoriana
+int es_bisiesto(int anio) {
+    if (anio % 400 == 0) {
+        return 1;
+    }
+    if (anio % 100 == 0) {
+        return 0;
+    }
+    if (anio % 4 == 0) {
+        return 1;
+    }
+    return 0;
+}
+
+// calcular_edad_en_dias: calcula los dias aproximados desde una edad en años
+int calcular_edad_en_dias(int anios) {
+    int resultado = anios * 365;
+    return resultado;
+}
+
+// eliminar_vocales: quita todas las vocales de una cadena
+void eliminar_vocales(char cadena[]) {
+    int indice = 0;
+    for (int i = 0; cadena[i] != '\0'; i++) {
+        char c = cadena[i];
+        if (c != 'a' && c != 'e' && c != 'i' && c != 'o' && c != 'u' &&
+            c != 'A' && c != 'E' && c != 'I' && c != 'O' && c != 'U') {
+            cadena[indice] = cadena[i];
+            indice++;
+        }
+    }
+    cadena[indice] = '\0';
+}
+
+// es_arreglo_ordenado: verifica si un arreglo de enteros esta ordenado ascendente
+int es_arreglo_ordenado(int arreglo[], int tamanio) {
+    for (int i = 1; i < tamanio; i++) {
+        if (arreglo[i] < arreglo[i - 1]) {
+            return 0;
+        }
+    }
+    return 1;
+}
+
+// calcular_raiz_cuadrada: aproxima la raiz cuadrada con el metodo de babilonia
+float calcular_raiz_cuadrada(float n) {
+    if (n <= 0.0f) {
+        return 0.0f;
+    }
+    float aproximacion = n / 2.0f;
+    for (int i = 0; i < 20; i++) {
+        aproximacion = (aproximacion + n / aproximacion) / 2.0f;
+    }
+    return aproximacion;
+}
+
+// calcular_area_triangulo: calcula el area de un triangulo con base y altura
+float calcular_area_triangulo(float base, float altura) {
+    float resultado = (base * altura) / 2.0f;
+    return resultado;
+}
+
+// ordenar_ascendente_tres: ordena tres valores usando intercambios
+void ordenar_ascendente_tres(int* a, int* b, int* c) {
+    if (*a > *b) {
+        int temporal = *a;
+        *a = *b;
+        *b = temporal;
+    }
+    if (*b > *c) {
+        int temporal = *b;
+        *b = *c;
+        *c = temporal;
+    }
+    if (*a > *b) {
+        int temporal = *a;
+        *a = *b;
+        *b = temporal;
+    }
+}
+
+// generar_serie_aritmetica: llena un arreglo con una progresion aritmetica
+void generar_serie_aritmetica(int arreglo[], int n, int inicio, int paso) {
+    for (int i = 0; i < n; i++) {
+        arreglo[i] = inicio + i * paso;
+    }
+}
+
+// calcular_velocidad_promedio: calcula la velocidad a partir de distancia y tiempo
+float calcular_velocidad_promedio(float distancia, float tiempo) {
+    if (tiempo <= 0.0f) {
+        return 0.0f;
+    }
+    float resultado = distancia / tiempo;
+    return resultado;
+}
+
+// encontrar_diferencia_maxima: encuentra la mayor diferencia entre elementos consecutivos
+int encontrar_diferencia_maxima(int arreglo[], int tamanio) {
+    if (tamanio < 2) {
+        return 0;
+    }
+    int maxima = arreglo[1] - arreglo[0];
+    for (int i = 2; i < tamanio; i++) {
+        int diferencia = arreglo[i] - arreglo[i - 1];
+        if (diferencia > maxima) {
+            maxima = diferencia;
+        }
+    }
+    return maxima;
+}
