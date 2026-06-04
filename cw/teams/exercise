@@ -1,0 +1,52 @@
+Nos vemos mañana, favor de hacer lo siguiente 
+
+ 
+
+Se realizará la prueba de un dataset en 10 iteraciones. En cada una de estas iteraciones se variará el número de carpetas, analizando en cada caso la matriz de confusión. Asimismo, durante estas pruebas se eliminarán las carpetas que contengan un menor número de imágenes. Todo este proceso tiene como objetivo evaluar y analizar la matriz de confusión final obtenida.  Una vez terminen de entrenar el modelo, se requiere cargar el modelo mediante el siguiente script,  probar con otras fotos que no estén contenidas dentro del dataset. 
+
+ 
+
+import cv2 as cv 
+import numpy as np
+import matplotlib.pyplot as plt
+from skimage.transform import resize
+from keras.models import load_model
+
+ 
+
+# Cargar el modelo h5
+modelo_h5 = '/home/likcos/riesgo.keras'
+riesgo_model = load_model(modelo_h5)
+
+ 
+
+images = []
+# AQUI ESPECIFICAMOS UNAS IMAGENES
+filenames = ['/home/likcos/test7.jpeg']
+
+ 
+
+for filepath in filenames:
+    image = plt.imread(filepath)
+    image_resized = resize(image, (21, 28), anti_aliasing=True, clip=False, preserve_range=True)
+    images.append(image_resized)
+
+ 
+
+X = np.array(images, dtype=np.uint8)  # Convierto de lista a numpy
+test_X = X.astype('float32')
+test_X = test_X / 255.
+
+ 
+
+predicted_classes = riesgo_model.predict(test_X)
+
+ 
+
+# Asegúrate de tener una lista de etiquetas o categorías en 'sriesgos'
+sriesgos = ['inundacion', 'incendios', 'tornados']  # Reemplaza con tus etiquetas reales
+
+ 
+
+for i, img_tagged in enumerate(predicted_classes):
+    print(filenames[i], sriesgos[np.argmax(img_tagged)])  
